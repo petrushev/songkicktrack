@@ -1,31 +1,3 @@
-Tony Gorilla and The F.U.'s
-    https://www.songkick.com/concerts/30533154-tony-gorilla-at-dont-panic
-    2017 Aug 09
-
-Anaal Nathrakh and Misanthrope Monarch
-    https://www.songkick.com/concerts/30857359-anaal-nathrakh-at-turock
-    2017 Aug 11
-
-Klanglos
-    https://www.songkick.com/concerts/30939479-klanglos-at-grace-jones
-    2017 Aug 11
-
-Tensnake, Wankelmut, and Cyril Hahn
-    https://www.songkick.com/concerts/30837029-tensnake-at-westend-club
-    2017 Aug 12
-
-Eve McKing
-    https://www.songkick.com/concerts/29947799-eve-mcking-at-unknown-venue
-    2017 Aug 12
-
-Turock Open Air 2017  Crowbar, Life of Agony, Jaya the Cat, Exumer, Savage Messiah, Toxpack, and Resist The Ocean
-    https://www.songkick.com/festivals/186791-turock-open-air/id/30648019-turock-open-air-2017
-    2017 Aug 18
-
-Peppermint Twist
-    https://www.songkick.com/concerts/29611889-peppermint-twist-at-theater-courage
-    2017 Aug 19
-
 HÃ¶hner
     https://www.songkick.com/concerts/28704779-hohner-at-philharmonie-essen
     2017 Aug 25
@@ -76,6 +48,14 @@ Essen Orginal 2017  Formosa
 
 Travels & Trunks
     https://www.songkick.com/concerts/30654004-travels-and-trunks-at-cafe-livres
+    2017 Sep 15
+
+KsFreakWhatElse
+    https://www.songkick.com/concerts/30772669-ksfreakwhatelse-at-hotel-shanghai
+    2017 Sep 15
+
+Royal Concertgebouw Orchestra  Thomas Hengelbrock and Diana Damrau
+    https://www.songkick.com/concerts/30983299-royal-concertgebouw-orchestra-at-philharmonie-essen
     2017 Sep 15
 
 Avatarium
@@ -222,6 +202,14 @@ Stomper 98
     https://www.songkick.com/concerts/30645094-stomper-98-at-turock
     2017 Oct 14
 
+thefatcatband
+    https://www.songkick.com/concerts/31066669-thefatcatband-at-amputte
+    2017 Oct 14
+
+The Fat Cat (DE)
+    https://www.songkick.com/concerts/31077924-fat-cat-de-at-amputte
+    2017 Oct 14
+
 Rias Kammerchor
     https://www.songkick.com/concerts/30057989-rias-kammerchor-at-alfried-krupp-saal
     2017 Oct 15
@@ -294,10 +282,6 @@ Chakuza
     https://www.songkick.com/concerts/30189209-chakuza-at-zeche-carl
     2017 Oct 29
 
-Leoniden
-    https://www.songkick.com/concerts/29968939-leoniden-at-hotel-shanghai
-    2017 Oct 30
-
 Dee Dee Bridgewater
     https://www.songkick.com/concerts/30441919-dee-dee-bridgewater-at-alfried-krupp-saal
     2017 Oct 30
@@ -317,6 +301,14 @@ Wincent Weiss
 Cat Ballou
     https://www.songkick.com/concerts/28540684-cat-ballou-at-dampfe
     2017 Nov 03
+
+Madison Violet  Back To The Roots and The 4 of Us
+    https://www.songkick.com/concerts/30965119-madison-violet-at-kulturzentrum-grend
+    2017 Nov 04
+
+Unzucht
+    https://www.songkick.com/concerts/31081419-unzucht-at-turock
+    2017 Nov 04
 
 PA Sports
     https://www.songkick.com/concerts/29070589-pa-sports-at-zeche-carl
@@ -350,7 +342,7 @@ Selig
     https://www.songkick.com/concerts/29470234-selig-at-zeche-carl
     2017 Nov 15
 
-Hardcore Superstar
+Hardcore Superstar  The Last Band
     https://www.songkick.com/concerts/30411559-hardcore-superstar-at-turock
     2017 Nov 16
 
@@ -470,6 +462,10 @@ Big Bandits
     https://www.songkick.com/concerts/29102284-big-bandits-at-zeche-carl
     2017 Dec 17
 
+Sancak
+    https://www.songkick.com/concerts/30965339-sancak-at-teatro-club-essen
+    2017 Dec 25
+
 New York Gospel Stars
     https://www.songkick.com/concerts/30839929-new-york-gospel-stars-at-ev-kirche-am-katernberger-markt
     2017 Dec 27
@@ -506,6 +502,10 @@ Jon Gomm
     https://www.songkick.com/concerts/29632674-jon-gomm-at-zeche-carl
     2018 Jan 31
 
+Therion
+    https://www.songkick.com/concerts/30991454-therion-at-turock
+    2018 Feb 01
+
 Michael Krebs
     https://www.songkick.com/concerts/29839089-michael-krebs-at-zeche-carl
     2018 Feb 01
@@ -538,6 +538,10 @@ Wolfgang Niedecken  AugiTropics and BuJazzO
     https://www.songkick.com/concerts/30056089-wolfgang-niedecken-at-philharmonie-essen
     2018 Feb 24
 
+Escape with Romeo  Final Escape
+    https://www.songkick.com/concerts/31002699-escape-with-romeo-at-kulturzentrum-grend
+    2018 Mar 02
+
 Steven Wilson
     https://www.songkick.com/concerts/30131399-steven-wilson-at-colosseum-theater
     2018 Mar 05
@@ -565,6 +569,10 @@ Auftakt
 Bowie Experience
     https://www.songkick.com/concerts/29962959-bowie-experience-at-lichtburg-essen
     2018 Mar 20
+
+Latin Quarter
+    https://www.songkick.com/concerts/30979949-latin-quarter-at-kulturzentrum-grend
+    2018 Apr 13
 
 Lucas Debargue
     https://www.songkick.com/concerts/28994959-lucas-debargue-at-philharmonie-essen

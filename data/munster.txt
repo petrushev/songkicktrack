@@ -1,31 +1,3 @@
-Henning Wehland
-    https://www.songkick.com/concerts/30148099-henning-wehland-at-schloss-munster-schlossplatz
-    2017 Aug 06
-
-December Peals and Blues Pills
-    https://www.songkick.com/concerts/29996109-december-peals-at-sputnikhalle
-    2017 Aug 13
-
-Marcel Gein
-    https://www.songkick.com/concerts/30858959-marcel-gein-at-unknown-venue
-    2017 Aug 13
-
-Life of Agony
-    https://www.songkick.com/concerts/29598574-life-of-agony-at-sputnikhalle
-    2017 Aug 16
-
-GNTN
-    https://www.songkick.com/concerts/29404539-gntn-at-fusion-club
-    2017 Aug 19
-
-Sierra Kidd
-    https://www.songkick.com/concerts/30525029-sierra-kidd-at-kesselhaus-greven
-    2017 Aug 19
-
-Shipley Road
-    https://www.songkick.com/concerts/30943189-shipley-road-at-treibgut-boot
-    2017 Aug 19
-
 The Pretty Reckless
     https://www.songkick.com/concerts/29649929-pretty-reckless-at-skaters-palace
     2017 Aug 22
@@ -62,6 +34,10 @@ Burger Weekends
     https://www.songkick.com/concerts/30847024-burger-weekends-at-baracke
     2017 Sep 01
 
+Impediment
+    https://www.songkick.com/concerts/31027534-impediment-at-bispinghof
+    2017 Sep 01
+
 Sonntag
     https://www.songkick.com/concerts/29289134-sonntag-at-deutsches-panzermuseum-munster
     2017 Sep 03
@@ -79,7 +55,7 @@ Cosmo Klein
     2017 Sep 08
 
 NOÂ°RD and Naive
-    https://www.songkick.com/concerts/30931174-nodegrd-at-unknown-venue
+    https://www.songkick.com/concerts/30931174-nodegrd-at-wagenburg
     2017 Sep 09
 
 B.B. & The Blues Shacks
@@ -88,6 +64,10 @@ B.B. & The Blues Shacks
 
 First Breath After Coma
     https://www.songkick.com/concerts/30359234-first-breath-after-coma-at-gleis-22
+    2017 Sep 09
+
+B.E.A.S.T. Open Air 2017  Precipitation, Pentarium, and Roots of unrest
+    https://www.songkick.com/festivals/1966234-beast-open-air/id/30975319-beast-open-air-2017
     2017 Sep 09
 
 Jon Flemming Olsen
@@ -122,6 +102,14 @@ Christina Lux
     https://www.songkick.com/concerts/30766374-christina-lux-at-schnabulenz
     2017 Sep 15
 
+Jasmin  Kontraste
+    https://www.songkick.com/concerts/30991904-jasmin-at-beat-club-keller-der-gaststatte-goldener-stern
+    2017 Sep 15
+
+Mountains To Move and Prey Drive  Backwards charm
+    https://www.songkick.com/concerts/30996599-mountains-to-move-at-rare-guitar
+    2017 Sep 15
+
 Egotronic  ROSI-Music
     https://www.songkick.com/concerts/30125744-egotronic-at-gleis-22
     2017 Sep 16
@@ -142,12 +130,12 @@ ANCST and Mare
     https://www.songkick.com/concerts/30833644-ancst-at-baracke
     2017 Sep 20
 
-Der Weg einer Freiheit and Inter Arma
-    https://www.songkick.com/concerts/29751524-der-weg-einer-freiheit-at-gleis-22
-    2017 Sep 21
-
 EMA
     https://www.songkick.com/concerts/30623779-ema-at-sputnikhalle
+    2017 Sep 21
+
+Der Weg einer Freiheit and Inter Arma
+    https://www.songkick.com/concerts/29751524-der-weg-einer-freiheit-at-gleis-22
     2017 Sep 21
 
 Itchy
@@ -158,16 +146,20 @@ Spoiwo
     https://www.songkick.com/concerts/30764539-spoiwo-at-baracke
     2017 Sep 22
 
-The Kutimangoes
+The Kutimangoes  Made in Africa
     https://www.songkick.com/concerts/30244619-kutimangoes-at-hot-jazz-club
     2017 Sep 22
 
-The M-Pire Strikes Back 2017  The King Blues, Itchy, Boston Manor, and Flash Forward
+The M-Pire Strikes Back 2017  The King Blues, Itchy, and Flash Forward
     https://www.songkick.com/festivals/1884399-mpire-strikes-back/id/30336009-the-mpire-strikes-back-2017
     2017 Sep 22
 
 B-Side Festival 2017  Blankets Band
     https://www.songkick.com/festivals/25476-bside/id/30883519-bside-festival-2017
+    2017 Sep 22
+
+B-Side Festival 2017  Travels & Trunks
+    https://www.songkick.com/festivals/25476-bside/id/31068164-bside-festival-2017
     2017 Sep 22
 
 Sodom
@@ -180,6 +172,14 @@ Albrecht Schrader
 
 WellBad
     https://www.songkick.com/concerts/30591954-wellbad-at-hot-jazz-club
+    2017 Sep 23
+
+PTK
+    https://www.songkick.com/concerts/30995364-ptk-at-skaters-palace
+    2017 Sep 23
+
+Bonsai Kitten
+    https://www.songkick.com/concerts/31086154-bonsai-kitten-at-heile-welt
     2017 Sep 23
 
 BackYard Festival 2017  Xternity
@@ -290,6 +290,10 @@ The Wishing Well
     https://www.songkick.com/concerts/30878784-wishing-well-at-schnabulenz
     2017 Oct 13
 
+Cantabile
+    https://www.songkick.com/concerts/30991959-cantabile-at-beat-club-keller-der-gaststatte-goldener-stern
+    2017 Oct 13
+
 Akua Naru
     https://www.songkick.com/concerts/30358829-akua-naru-at-skaters-palace
     2017 Oct 14
@@ -338,8 +342,8 @@ Ronny Vergara
     https://www.songkick.com/concerts/29739079-ronny-vergara-at-triebwerk-5
     2017 Oct 21
 
-Jessy Martens and Jessy Martens & Band
-    https://www.songkick.com/concerts/30303269-jessy-martens-at-hot-jazz-club
+Jessy Martens and Band
+    https://www.songkick.com/concerts/30303269-jessy-martens-and-band-at-hot-jazz-club
     2017 Oct 21
 
 Helgen
@@ -438,9 +442,17 @@ Casper
     https://www.songkick.com/concerts/30606019-casper-at-messecongress-centrum-halle-munsterland
     2017 Oct 31
 
+Twit One
+    https://www.songkick.com/concerts/31025989-twit-one-at-skaters-palace-cafe
+    2017 Oct 31
+
 In Hearts Wake  Gideon
     https://www.songkick.com/concerts/30302004-in-hearts-wake-at-sputnikhalle
     2017 Nov 01
+
+Grande Royale
+    https://www.songkick.com/concerts/31027039-grande-royale-at-rare-guitars
+    2017 Nov 03
 
 My Baby
     https://www.songkick.com/concerts/30931404-my-baby-at-gleis-22
@@ -466,12 +478,16 @@ SEVEN (www.sevenmusic.ch)
     https://www.songkick.com/concerts/28500529-seven-wwwsevenmusicch-at-jovel-music-hall
     2017 Nov 08
 
-Simon Phillips
+Simon Phillips  Protocol IV
     https://www.songkick.com/concerts/29799229-simon-phillips-at-jovel-club
     2017 Nov 11
 
 Big Daddy Wilson
     https://www.songkick.com/concerts/28681274-big-daddy-wilson-at-hot-jazz-club
+    2017 Nov 11
+
+Shipwrecks (GER)
+    https://www.songkick.com/concerts/31081344-shipwrecks-ger-at-baracke
     2017 Nov 11
 
 Haudegen
@@ -562,6 +578,10 @@ Selig
     https://www.songkick.com/concerts/29470169-selig-at-skaters-palace
     2017 Dec 03
 
+Malky
+    https://www.songkick.com/concerts/31002874-malky-at-hot-jazz-club
+    2017 Dec 03
+
 Barrenstein
     https://www.songkick.com/concerts/30745284-barrenstein-at-cafe-sputnik
     2017 Dec 03
@@ -610,6 +630,10 @@ Trailerpark
     https://www.songkick.com/concerts/28765634-trailerpark-at-halle-munsterland
     2017 Dec 10
 
+Mine
+    https://www.songkick.com/concerts/31021859-mine-at-skaters-palace
+    2017 Dec 12
+
 Biber Herrmann
     https://www.songkick.com/concerts/30266069-biber-herrmann-at-theater-im-pumpenhaus
     2017 Dec 13
@@ -626,16 +650,16 @@ Maybebop
     https://www.songkick.com/concerts/28856954-maybebop-at-halle-munsterland
     2017 Dec 14
 
-Peter Orloff  Schwarzmeer Kosaken-Chor
-    https://www.songkick.com/concerts/29619819-peter-orloff-at-alexanderkirche
-    2017 Dec 15
-
 The Toasters
     https://www.songkick.com/concerts/30296214-toasters-at-hot-jazz-club
     2017 Dec 15
 
 Impala Ray
     https://www.songkick.com/concerts/30713959-impala-ray-at-sputnikhalle
+    2017 Dec 15
+
+Peter Orloff  Schwarzmeer Kosaken-Chor
+    https://www.songkick.com/concerts/29619819-peter-orloff-at-alexanderkirche
     2017 Dec 15
 
 Helmut Lotti
@@ -670,9 +694,21 @@ Gregor McEwan
     https://www.songkick.com/concerts/29995309-gregor-mcewan-at-pension-schmidt
     2018 Jan 21
 
+Ludwig Guttler
+    https://www.songkick.com/concerts/31062769-ludwig-guttler-at-apostelkirche
+    2018 Jan 22
+
 Flash Forward
     https://www.songkick.com/concerts/30740639-flash-forward-at-cafe-sputnik
     2018 Jan 25
+
+Kakkmaddafakka
+    https://www.songkick.com/concerts/31027204-kakkmaddafakka-at-skaters-palace
+    2018 Jan 30
+
+Prinz Pi
+    https://www.songkick.com/concerts/31022449-prinz-pi-at-skaters-palace
+    2018 Feb 03
 
 Remode
     https://www.songkick.com/concerts/30524394-remode-at-jovel-music-hall
@@ -698,9 +734,17 @@ Dcvdns
     https://www.songkick.com/concerts/30682614-dcvdns-at-skaters-palace
     2018 Feb 10
 
+SOL HEILO
+    https://www.songkick.com/concerts/31074994-sol-heilo-at-gleis-22
+    2018 Feb 10
+
 Glenn Miller Orchestra
     https://www.songkick.com/concerts/30510174-glenn-miller-orchestra-at-congresssaal-der-halle-munsterland
     2018 Feb 13
+
+KaffkÃ¶nig
+    https://www.songkick.com/concerts/30965774-kaffkonig-at-die-rote-lola
+    2018 Feb 15
 
 Paul Panzer
     https://www.songkick.com/concerts/30581489-paul-panzer-at-messecongress-centrum-halle-munsterland
