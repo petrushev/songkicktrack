@@ -1,35 +1,3 @@
-HÃ¶hner
-    https://www.songkick.com/concerts/28704779-hohner-at-philharmonie-essen
-    2017 Aug 25
-
-Das frivole BurgfrÃ¤ulein and Blutjungs  Schockromantik
-    https://www.songkick.com/concerts/30707664-das-frivole-burgfraulein-at-dont-panic
-    2017 Aug 25
-
-Die Fantastischen Vier
-    https://www.songkick.com/concerts/28539599-die-fantastischen-vier-at-seaside-beach-baldeney
-    2017 Aug 26
-
-DJ Volvox
-    https://www.songkick.com/concerts/30507159-dj-volvox-at-unknown-venue
-    2017 Aug 26
-
-Rea Garvey
-    https://www.songkick.com/concerts/28811244-rea-garvey-at-seaside-beach-baldeney
-    2017 Aug 27
-
-Chaplin (DE)
-    https://www.songkick.com/concerts/29281859-chaplin-de-at-raumschiffruhr
-    2017 Aug 27
-
-Jawknee Music
-    https://www.songkick.com/concerts/29323434-jawknee-music-at-cafe-livres
-    2017 Aug 31
-
-Azad
-    https://www.songkick.com/concerts/30155894-azad-at-zeche-carl
-    2017 Sep 06
-
 TYLER LEADS
     https://www.songkick.com/concerts/30679254-tyler-leads-at-essen-original
     2017 Sep 08
@@ -37,10 +5,6 @@ TYLER LEADS
 Essen Original 2017  Tim Kamrad
     https://www.songkick.com/festivals/143926-essen-original/id/30760604-essen-original-2017
     2017 Sep 08
-
-Mary Roos
-    https://www.songkick.com/concerts/30001169-mary-roos-at-colosseum-theater
-    2017 Sep 09
 
 Essen Orginal 2017  Formosa
     https://www.songkick.com/festivals/143941-essen-orginal/id/29914154-essen-orginal-2017
@@ -74,6 +38,10 @@ Mike & The Mechanics
     https://www.songkick.com/concerts/29674279-mike-and-the-mechanics-at-lichtburg-essen
     2017 Sep 20
 
+DIETLIND FALK
+    https://www.songkick.com/concerts/31100299-dietlind-falk-at-unknown-venue
+    2017 Sep 20
+
 Phil Rudd (formerly of AC/DC)
     https://www.songkick.com/concerts/29866584-phil-rudd-formerly-of-acdc-at-turock
     2017 Sep 22
@@ -90,12 +58,20 @@ David Grissom
     https://www.songkick.com/concerts/29731449-david-grissom-at-kulturzentrum-grend
     2017 Sep 23
 
+Mic Donet
+    https://www.songkick.com/concerts/31172154-mic-donet-at-alfried-krupp-saal
+    2017 Sep 23
+
 Martin Herzberg
     https://www.songkick.com/concerts/28986299-martin-herzberg-at-katakomben-theater
     2017 Sep 24
 
 Peppermint Twist
     https://www.songkick.com/concerts/29611919-peppermint-twist-at-theater-courage
+    2017 Sep 24
+
+Zechenfest 2017  Die Lieferanten
+    https://www.songkick.com/festivals/2008884-zechenfest/id/31271159-zechenfest-2017
     2017 Sep 24
 
 Satyricon and Fight the Fight
@@ -110,8 +86,16 @@ Timm Beckmann
     https://www.songkick.com/concerts/28579559-timm-beckmann-at-zeche-carl
     2017 Sep 25
 
+Morrissey and Marshall
+    https://www.songkick.com/concerts/31225184-morrissey-and-marshall-at-galerie-cinema
+    2017 Sep 25
+
 Timm Beckmann
     https://www.songkick.com/concerts/28579569-timm-beckmann-at-zeche-carl
+    2017 Sep 26
+
+Morrissey and Marshall
+    https://www.songkick.com/concerts/31225189-morrissey-and-marshall-at-galerie-cinema
     2017 Sep 26
 
 Tori Amos  Bell X1
@@ -137,6 +121,10 @@ Gasten
 Fayzen
     https://www.songkick.com/concerts/30257174-fayzen-at-zeche-carl
     2017 Oct 01
+
+Robag Wruhme
+    https://www.songkick.com/concerts/31175394-robag-wruhme-at-goethebunker
+    2017 Oct 02
 
 Prime Circle
     https://www.songkick.com/concerts/30546434-prime-circle-at-turock
@@ -168,6 +156,10 @@ Tom Liwa
 
 Julian & Roman Wasserfuhr
     https://www.songkick.com/concerts/30841534-julian-and-roman-wasserfuhr-at-forum-des-mariengymnasiums
+    2017 Oct 07
+
+Losing End (SG)
+    https://www.songkick.com/concerts/31226329-losing-end-sg-at-walkabout
     2017 Oct 07
 
 Leslie Clio
@@ -210,6 +202,10 @@ The Fat Cat (DE)
     https://www.songkick.com/concerts/31077924-fat-cat-de-at-amputte
     2017 Oct 14
 
+Arto Tuncboyaciyan
+    https://www.songkick.com/concerts/31117619-arto-tuncboyaciyan-at-katakomben-theater
+    2017 Oct 14
+
 Rias Kammerchor
     https://www.songkick.com/concerts/30057989-rias-kammerchor-at-alfried-krupp-saal
     2017 Oct 15
@@ -223,7 +219,7 @@ Fischer-Z
     2017 Oct 18
 
 Faber
-    https://www.songkick.com/concerts/29598979-faber-at-zeche-carl
+    https://www.songkick.com/concerts/29598979-faber-at-weststadthalle-essen
     2017 Oct 18
 
 Chris Barber
@@ -244,6 +240,10 @@ Vega
 
 Blond (GER)
     https://www.songkick.com/concerts/30182839-blond-ger-at-hotel-shanghai
+    2017 Oct 21
+
+Marian Kuprat
+    https://www.songkick.com/concerts/31268764-marian-kuprat-at-sailors-pub
     2017 Oct 21
 
 Peppermint Twist
@@ -334,6 +334,10 @@ Misanthrope Monarch, In Weak Lights, and Goat Of Mendes
     https://www.songkick.com/concerts/30876214-misanthrope-monarch-at-jugendkulturzentrum-ground-zero
     2017 Nov 11
 
+Jan Lundgren
+    https://www.songkick.com/concerts/31186534-jan-lundgren-at-forum-des-mariengymnasiums
+    2017 Nov 11
+
 And So I Watch You from Afar  KID DAD
     https://www.songkick.com/concerts/29931309-and-so-i-watch-you-from-afar-at-zeche-carl
     2017 Nov 14
@@ -390,6 +394,10 @@ Neberu, Neverland in Ashes, and Arktis  Soylent Black
     https://www.songkick.com/concerts/29348754-neberu-at-cafe-nova
     2017 Nov 25
 
+Max Richard LeÃmann
+    https://www.songkick.com/concerts/31190024-max-richard-lessmann-at-hotel-shanghai
+    2017 Nov 26
+
 Balbina
     https://www.songkick.com/concerts/29834209-balbina-at-zeche-carl
     2017 Nov 29
@@ -428,6 +436,10 @@ Ina MÃ¼ller
 
 Twist
     https://www.songkick.com/concerts/29731559-twist-at-kulturzentrum-grend
+    2017 Dec 08
+
+GURR
+    https://www.songkick.com/concerts/31158904-gurr-at-hotel-shanghai
     2017 Dec 08
 
 Das Glasblassing Quintett
@@ -474,9 +486,21 @@ Ute Lemper
     https://www.songkick.com/concerts/30011459-ute-lemper-at-philharmonie-essen
     2018 Jan 04
 
+U.D.O.  abend
+    https://www.songkick.com/concerts/31254694-udo-at-theater-courage
+    2018 Jan 07
+
+K&K Philharmoniker and Matthias Georg Kendlinger
+    https://www.songkick.com/concerts/31229379-k-and-k-philharmoniker-at-philharmonie-essen
+    2018 Jan 07
+
 Atze SchrÃ¶der
     https://www.songkick.com/concerts/30583154-atze-schroder-at-grugahalle-essen
     2018 Jan 11
+
+Fates Warning  Long Distance Calling
+    https://www.songkick.com/concerts/31259124-fates-warning-at-turock
+    2018 Jan 18
 
 Alexander Krichel
     https://www.songkick.com/concerts/30305399-alexander-krichel-at-philharmonie-essen-alfred-krupp-saal
@@ -493,6 +517,10 @@ Klazz Brothers
 Thomas Gsella
     https://www.songkick.com/concerts/30359374-thomas-gsella-at-zeche-carl
     2018 Jan 26
+
+The Almost Three
+    https://www.songkick.com/concerts/31268679-almost-three-at-sudrock
+    2018 Jan 27
 
 Razz
     https://www.songkick.com/concerts/30352409-razz-at-zeche-carl
@@ -518,8 +546,16 @@ The 12 Tenors
     https://www.songkick.com/concerts/29962629-12-tenors-at-colosseum-theater
     2018 Feb 13
 
+Azad
+    https://www.songkick.com/concerts/30155894-azad-at-zeche-carl
+    2018 Feb 16
+
 Glenn Miller Orchestra
     https://www.songkick.com/concerts/30214729-glenn-miller-orchestra-at-philharmonie-essen
+    2018 Feb 17
+
+The Rogers
+    https://www.songkick.com/concerts/31091779-rogers-at-zeche-carl
     2018 Feb 17
 
 Enrico Rava
@@ -528,6 +564,10 @@ Enrico Rava
 
 Moritz Neumeier
     https://www.songkick.com/concerts/30006464-moritz-neumeier-at-zeche-carl
+    2018 Feb 18
+
+I'm Not A Band
+    https://www.songkick.com/concerts/31231749-im-not-a-band-at-weststadthalle-essen
     2018 Feb 18
 
 Paul Panzer
@@ -578,6 +618,14 @@ Lucas Debargue
     https://www.songkick.com/concerts/28994959-lucas-debargue-at-philharmonie-essen
     2018 Apr 15
 
+Angra and Operation: Mindcrime
+    https://www.songkick.com/concerts/31250459-angra-at-turock
+    2018 Apr 19
+
+Esa-Pekka Salonen and Philharmonia Orchestra
+    https://www.songkick.com/concerts/31154529-esapekka-salonen-at-philharmonie-essen
+    2018 Apr 19
+
 Girls in Airports
     https://www.songkick.com/concerts/30057689-girls-in-airports-at-philharmonie-essen-rwe-pavillon
     2018 Apr 21
@@ -585,6 +633,10 @@ Girls in Airports
 Stefano Bollani
     https://www.songkick.com/concerts/30701969-stefano-bollani-at-grillo-theater
     2018 Apr 22
+
+Mary Roos
+    https://www.songkick.com/concerts/30001169-mary-roos-at-colosseum-theater
+    2018 Apr 27
 
 The Analogues
     https://www.songkick.com/concerts/30264744-analogues-at-colosseum-theater
