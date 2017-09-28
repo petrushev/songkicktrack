@@ -1,125 +1,13 @@
-Basta
-    https://www.songkick.com/concerts/28975784-basta-at-unknown-venue
-    2017 Sep 08
-
-vocuz
-    https://www.songkick.com/concerts/30640649-vocuz-at-big-tipi
-    2017 Sep 08
-
-L.A. Witch
-    https://www.songkick.com/concerts/30903724-la-witch-at-labsal
-    2017 Sep 10
-
-Moritz Garth
-    https://www.songkick.com/concerts/30215494-moritz-garth-at-freizeitzentrum-west
-    2017 Sep 12
-
-Jonah
-    https://www.songkick.com/concerts/30394409-jonah-at-freizeitzentrum-west
-    2017 Sep 13
-
-Mc Rene
-    https://www.songkick.com/concerts/31107539-mc-rene-at-rekorder
-    2017 Sep 13
-
-The Ghost Wolves
-    https://www.songkick.com/concerts/31058589-ghost-wolves-at-freizeitzentrum-west
-    2017 Sep 14
-
-Bierschinken eats FZW 14 2017  The Ghost Wolves, DECIBELLES, Piss Test, The Sensitives, and Narcolaptic
-    https://www.songkick.com/festivals/1987209-bierschinken-eats-fzw-14/id/31123609-bierschinken-eats-fzw-14-2017
-    2017 Sep 14
-
-Yung Hurn
-    https://www.songkick.com/concerts/30937174-yung-hurn-at-junkyard
-    2017 Sep 15
-
-Sedaa
-    https://www.songkick.com/concerts/31209914-sedaa-at-dietrichkeuninghaus
-    2017 Sep 15
-
-Viva Voce  Ego
-    https://www.songkick.com/concerts/31130654-viva-voce-at-burgerhaus-anrochte
-    2017 Sep 16
-
-ALAZKA and Imminence  Across the Atlantic
-    https://www.songkick.com/concerts/30432994-alazka-at-freizeitzentrum-west
-    2017 Sep 18
-
-Heim
-    https://www.songkick.com/concerts/30048584-heim-at-subrosa
-    2017 Sep 21
-
-GÃ¶tz Alsmann
-    https://www.songkick.com/concerts/30243874-gotz-alsmann-at-konzerthaus-dortmund
-    2017 Sep 21
-
-The Pretty Things
-    https://www.songkick.com/concerts/30056639-pretty-things-at-musiktheater-piano
-    2017 Sep 22
-
-Jin Jim
-    https://www.songkick.com/concerts/29215694-jin-jim-at-jazzclub-domicil
-    2017 Sep 22
-
-GÃ¶tz Alsmann
-    https://www.songkick.com/concerts/30243879-gotz-alsmann-at-konzerthaus-dortmund
-    2017 Sep 22
-
-Das HÃ¶chste Der GefÃ¼hle 2017  TORA, The Franklin Electric, Phia, and Dino Joubert
-    https://www.songkick.com/festivals/1350159-das-hochste-der-gefuhle/id/30277714-das-hchste-der-gefhle-2017
-    2017 Sep 22
-
-HÃ¶chste der GefÃ¼hle Festival 2017  Dino Joubert
-    https://www.songkick.com/festivals/1608854-hochste-der-gefuhle/id/30034499-hchste-der-gefhle-festival-2017
-    2017 Sep 22
-
-Dool  Motorowl
-    https://www.songkick.com/concerts/30921739-dool-at-musiktheater-piano
-    2017 Sep 23
-
-Steve Hill
-    https://www.songkick.com/concerts/29913429-steve-hill-at-blue-notez
-    2017 Sep 23
-
-Esa-Pekka Salonen and Philharmonia Orchestra
-    https://www.songkick.com/concerts/31154424-esapekka-salonen-at-konzerthaus-dortmund
-    2017 Sep 23
-
-The Sisters Of Mercy
-    https://www.songkick.com/concerts/29703874-sisters-of-mercy-at-freizeitzentrum-west
-    2017 Sep 24
-
-John Lee Hooker Jr.
-    https://www.songkick.com/concerts/30244784-john-lee-hooker-jr-at-musiktheater-piano
-    2017 Sep 24
-
-Chris Hopkins Meets His Piano Friends  Mark Shane
-    https://www.songkick.com/concerts/29922444-chris-hopkins-meets-his-piano-friends-at-konzerthaus-dortmund-stadtfoyer
-    2017 Sep 24
-
-Helene Fischer
-    https://www.songkick.com/concerts/28382479-helene-fischer-at-westfalenhalle-1
-    2017 Sep 26
-
-Helene Fischer
-    https://www.songkick.com/concerts/28382609-helene-fischer-at-westfalenhalle-1
-    2017 Sep 27
-
-bFAKE
-    https://www.songkick.com/concerts/31269014-bfake-at-rekorder
-    2017 Sep 27
-
-Le Trouble
-    https://www.songkick.com/concerts/31027459-le-trouble-at-subrosa
-    2017 Sep 28
-
 Helene Fischer
     https://www.songkick.com/concerts/28382629-helene-fischer-at-westfalenhalle-1
     2017 Sep 29
 
 Empire Escape
     https://www.songkick.com/concerts/30992724-empire-escape-at-subrosa
+    2017 Sep 29
+
+Way Back When 2017  Hello Piedpiper
+    https://www.songkick.com/festivals/957394-way-back-when/id/31410794-way-back-when-2017
     2017 Sep 29
 
 Way Back When 2017  Slowdive, Roosevelt, Loney Dear, Adna, Her's, Lewis Capaldi, GURR, and Warbly Jets
@@ -158,6 +46,10 @@ Andy Frasco
     https://www.songkick.com/concerts/31031179-andy-frasco-at-blue-notez
     2017 Oct 02
 
+Jonathan Kaspar
+    https://www.songkick.com/concerts/31442509-jonathan-kaspar-at-junkyard
+    2017 Oct 02
+
 Mahala Rai Banda
     https://www.songkick.com/concerts/30132509-mahala-rai-banda-at-domicil
     2017 Oct 03
@@ -166,7 +58,7 @@ Tim Vantol
     https://www.songkick.com/concerts/29429494-tim-vantol-at-freizeitzentrum-west
     2017 Oct 03
 
-Ian Hunter
+Ian Hunter and Ian Hunter & The Rant Band
     https://www.songkick.com/concerts/30057914-ian-hunter-at-musiktheater-piano
     2017 Oct 05
 
@@ -218,8 +110,8 @@ Syndicate
     https://www.songkick.com/concerts/30524254-syndicate-at-westfalenhalle-1
     2017 Oct 07
 
-FESTIVAL SYNDICATE 2017  Angerfist, Frontliner, Da Tweekaz, Korsakoff, Crypsis, Digital Punk, Radical Redemption, and DJ Mad Dog
-    https://www.songkick.com/festivals/107141-syndicate/id/31056334-festival-syndicate-2017
+Dr.Mulle
+    https://www.songkick.com/concerts/31388014-drmulle-at-cafe-banane
     2017 Oct 07
 
 FESTIVAL SYNDICATE 2017  Tears Of Fury
@@ -258,6 +150,10 @@ Central Park Band
     https://www.songkick.com/concerts/31036179-central-park-band-at-storckshof
     2017 Oct 11
 
+June Coco
+    https://www.songkick.com/concerts/31296194-june-coco-at-subrosa
+    2017 Oct 11
+
 Ali A$
     https://www.songkick.com/concerts/30359094-ali-as-at-freizeitzentrum-west
     2017 Oct 12
@@ -286,12 +182,12 @@ LAKE (US)
     https://www.songkick.com/concerts/30056719-lake-us-at-musiktheater-piano
     2017 Oct 14
 
-Ina Forsman
-    https://www.songkick.com/concerts/30619184-ina-forsman-at-blue-notez
-    2017 Oct 14
-
 Sebel
     https://www.songkick.com/concerts/29684204-sebel-at-hansatheater-horde
+    2017 Oct 14
+
+Ina Forsman
+    https://www.songkick.com/concerts/30619184-ina-forsman-at-blue-notez
     2017 Oct 14
 
 Saint Vitus
@@ -330,6 +226,10 @@ Brian Downey
     https://www.songkick.com/concerts/30204504-brian-downey-at-musiktheater-piano
     2017 Oct 20
 
+King Nate  TIOR
+    https://www.songkick.com/concerts/31457659-king-nate-at-rush-hour-nacht-palast
+    2017 Oct 20
+
 Blond
     https://www.songkick.com/concerts/29786549-blond-at-freizeitzentrum-west
     2017 Oct 22
@@ -341,6 +241,10 @@ Blond (GER)
 Christian Steiffen
     https://www.songkick.com/concerts/30524954-christian-steiffen-at-freizeitzentrum-west
     2017 Oct 24
+
+ÐÑÐ¸Ð±Ñ
+    https://www.songkick.com/concerts/31348354-griby-at-freizeitzentrum-west
+    2017 Oct 25
 
 Chris Rea
     https://www.songkick.com/concerts/29955309-chris-rea-at-westfalenhalle-1
@@ -370,6 +274,14 @@ BÃ¤nz Oester  The Rainmakers
     https://www.songkick.com/concerts/29530774-banz-oester-at-domicil
     2017 Oct 27
 
+The Twang
+    https://www.songkick.com/concerts/31324879-twang-at-subrosa
+    2017 Oct 27
+
+East Ends and Walking on Rivers
+    https://www.songkick.com/concerts/31442359-east-ends-at-oma-doris
+    2017 Oct 27
+
 Kraftklub
     https://www.songkick.com/concerts/29735084-kraftklub-at-westfalenhalle-1
     2017 Oct 28
@@ -394,12 +306,16 @@ VON WEIDEN
     https://www.songkick.com/concerts/31254729-von-weiden-at-subrosa
     2017 Oct 31
 
-FrÃ¨re and The Away Days
-    https://www.songkick.com/concerts/31112564-frere-at-freizeitzentrum-west
-    2017 Nov 02
+Sancak
+    https://www.songkick.com/concerts/31276504-sancak-at-megastar-eventhalle
+    2017 Nov 01
 
 Garland Jeffreys
     https://www.songkick.com/concerts/30102909-garland-jeffreys-at-musiktheater-piano
+    2017 Nov 02
+
+FrÃ¨re and The Away Days
+    https://www.songkick.com/concerts/31112564-frere-at-freizeitzentrum-west
     2017 Nov 02
 
 Masaa
@@ -422,6 +338,10 @@ Nils WÃ¼lker
     https://www.songkick.com/concerts/30979409-nils-wulker-at-domicil
     2017 Nov 03
 
+Tigeryouth
+    https://www.songkick.com/concerts/31397139-tigeryouth-at-subrosa
+    2017 Nov 03
+
 Epitaph
     https://www.songkick.com/concerts/29811644-epitaph-at-musiktheater-piano
     2017 Nov 04
@@ -438,6 +358,14 @@ Smokie
     https://www.songkick.com/concerts/31037314-smokie-at-storckshof
     2017 Nov 08
 
+DJ SUNDANCE and Robert Glasper Experiment
+    https://www.songkick.com/concerts/31276539-dj-sundance-at-domicil
+    2017 Nov 09
+
+Raging Fyah
+    https://www.songkick.com/concerts/31381584-raging-fyah-at-junkyard
+    2017 Nov 09
+
 Orkesta Mendoza
     https://www.songkick.com/concerts/30244794-orkesta-mendoza-at-konzerthaus-dortmund
     2017 Nov 09
@@ -447,7 +375,7 @@ Casper
     2017 Nov 10
 
 Casper
-    https://www.songkick.com/concerts/30617659-casper-at-westfalenhalle-1
+    https://www.songkick.com/concerts/30617659-casper-at-westfalenhalle
     2017 Nov 10
 
 Johannes Oerding
@@ -482,6 +410,10 @@ Wednesday 13
     https://www.songkick.com/concerts/30423009-wednesday-13-at-freizeitzentrum-west
     2017 Nov 13
 
+Hayden Calnin
+    https://www.songkick.com/concerts/31439414-hayden-calnin-at-sissikingkong
+    2017 Nov 14
+
 Michael Schulte
     https://www.songkick.com/concerts/29592129-michael-schulte-at-freizeitzentrum-west
     2017 Nov 15
@@ -496,6 +428,10 @@ Nico Duportal
 
 Laia Genc  Sven Decker
     https://www.songkick.com/concerts/30952614-laia-genc-at-domicil
+    2017 Nov 16
+
+Ben Hermanski
+    https://www.songkick.com/concerts/31388734-ben-hermanski-at-dortmunder-u
     2017 Nov 16
 
 Peter Horton
@@ -526,7 +462,7 @@ Michael Patrick Kelly
     https://www.songkick.com/concerts/28580189-michael-patrick-kelly-at-konzerthaus-dortmund
     2017 Nov 20
 
-Mando Diao
+Mando Diao  Razz
     https://www.songkick.com/concerts/30125364-mando-diao-at-phoenixhalle
     2017 Nov 21
 
@@ -550,12 +486,20 @@ Ivan & the Parazol and Waves of Joy
     https://www.songkick.com/concerts/31186769-ivan-and-the-parazol-at-freizeitzentrum-west
     2017 Nov 23
 
+josh smith
+    https://www.songkick.com/concerts/31418319-josh-smith-at-musiktheater-piano
+    2017 Nov 23
+
 Dortmund Christmas Market (PHANTASTISCHER MITTELALTERLICHER LICHTER WEIHNACHTSMARKT) 2017  ye banished privateers
     https://www.songkick.com/festivals/1856439-dortmund-christmas-market-phantastischer-mittelalterlicher-lichter-weihnachtsmarkt/id/30100939-dortmund-christmas-market-phantastischer-mittelalterlicher-lichter-weihnachtsmarkt-2017
     2017 Nov 23
 
 Bukahara
     https://www.songkick.com/concerts/30550854-bukahara-at-freizeitzentrum-west
+    2017 Nov 24
+
+Jett Rebel
+    https://www.songkick.com/concerts/31401029-jett-rebel-at-musiktheater-piano
     2017 Nov 24
 
 Randy Hansen
@@ -570,11 +514,15 @@ Tommy Castro
     https://www.songkick.com/concerts/30469349-tommy-castro-at-blue-notez
     2017 Nov 25
 
+Die Feisten
+    https://www.songkick.com/concerts/31407829-die-feisten-at-fritz-henssler-haus
+    2017 Nov 25
+
 Kontra K
     https://www.songkick.com/concerts/30576544-kontra-k-at-phoenixhalle
     2017 Nov 27
 
-Julian Le Play
+Julian Le Play  LEMO
     https://www.songkick.com/concerts/29696129-julian-le-play-at-freizeitzentrum-west
     2017 Nov 29
 
@@ -593,6 +541,14 @@ Vona
 The Weight
     https://www.songkick.com/concerts/30018159-weight-at-blue-notez
     2017 Dec 02
+
+Illegale Farben
+    https://www.songkick.com/concerts/31333279-illegale-farben-at-subrosa
+    2017 Dec 02
+
+New Candys
+    https://www.songkick.com/concerts/31291024-new-candys-at-labsal
+    2017 Dec 04
 
 The Godfathers
     https://www.songkick.com/concerts/31159399-godfathers-at-freizeitzentrum-west
@@ -630,6 +586,14 @@ Alex Mofa Gang
     https://www.songkick.com/concerts/30592374-alex-mofa-gang-at-freizeitzentrum-west
     2017 Dec 12
 
+FINN (DE)
+    https://www.songkick.com/concerts/31327964-finn-de-at-freizeitzentrum-west
+    2017 Dec 12
+
+Trettmann
+    https://www.songkick.com/concerts/31453529-trettmann-at-junkyard
+    2017 Dec 14
+
 Fritz Kalkbrenner
     https://www.songkick.com/concerts/30511289-fritz-kalkbrenner-at-phoenixhalle
     2017 Dec 15
@@ -642,6 +606,10 @@ Guildo Horn
     https://www.songkick.com/concerts/28835054-guildo-horn-at-freizeitzentrum-west
     2017 Dec 17
 
+Roger Hodgson (formerly of Supertramp)
+    https://www.songkick.com/concerts/31226834-roger-hodgson-formerly-of-supertramp-at-westfalenhalle
+    2017 Dec 23
+
 Helmut Lotti
     https://www.songkick.com/concerts/28440389-helmut-lotti-at-westfalenhalle-3a
     2017 Dec 23
@@ -650,13 +618,21 @@ Night of the Proms
     https://www.songkick.com/concerts/28641899-night-of-the-proms-at-westfalenhalle
     2017 Dec 23
 
-Roger Hodgson (formerly of Supertramp)
-    https://www.songkick.com/concerts/31226834-roger-hodgson-formerly-of-supertramp-at-westfalenhalle
-    2017 Dec 23
+Die Toten Hosen
+    https://www.songkick.com/concerts/31338099-die-toten-hosen-at-westfalenhalle-1
+    2017 Dec 25
+
+Honigdieb
+    https://www.songkick.com/concerts/31383629-honigdieb-at-freizeitzentrum-west
+    2017 Dec 26
 
 Pee Wee Bluesgang
     https://www.songkick.com/concerts/30155384-pee-wee-bluesgang-at-musiktheater-piano
     2017 Dec 29
+
+Antilopen Gang
+    https://www.songkick.com/concerts/31275914-antilopen-gang-at-freizeitzentrum-west
+    2017 Dec 30
 
 Jessy Martens and Band
     https://www.songkick.com/concerts/30643994-jessy-martens-and-band-at-musiktheater-piano
@@ -694,6 +670,10 @@ K&K Philharmoniker and Matthias Georg Kendlinger
     https://www.songkick.com/concerts/31230139-k-and-k-philharmoniker-at-konzerthaus-dortmund
     2018 Jan 17
 
+Jeff Cascaro
+    https://www.songkick.com/concerts/31458179-jeff-cascaro-at-domicil
+    2018 Jan 18
+
 Egotronic
     https://www.songkick.com/concerts/30884029-egotronic-at-freizeitzentrum-west
     2018 Jan 19
@@ -710,13 +690,33 @@ Julian Lage Trio
     https://www.songkick.com/concerts/30526209-julian-lage-trio-at-domicil
     2018 Jan 20
 
+The Blues Caravan
+    https://www.songkick.com/concerts/31381569-blues-caravan-at-musiktheater-piano
+    2018 Jan 21
+
+Lizzard and Ork
+    https://www.songkick.com/concerts/31401744-lizzard-at-musiktheater-piano
+    2018 Jan 22
+
+Gregor Hilden
+    https://www.songkick.com/concerts/31454164-gregor-hilden-at-musiktheater-piano
+    2018 Jan 24
+
 Wishbone Ash
     https://www.songkick.com/concerts/31088584-wishbone-ash-at-musiktheater-piano
     2018 Jan 27
 
+Rakede
+    https://www.songkick.com/concerts/31437099-rakede-at-freizeitzentrum-west
+    2018 Jan 28
+
 Afro-Cuban All Stars
     https://www.songkick.com/concerts/30303044-afrocuban-all-stars-at-konzerthaus-dortmund
     2018 Jan 29
+
+Gisbert zu Knyphausen
+    https://www.songkick.com/concerts/31324729-gisbert-zu-knyphausen-at-freizeitzentrum-west
+    2018 Jan 30
 
 David Guetta
     https://www.songkick.com/concerts/31074364-david-guetta-at-westfalenhalle-1
@@ -750,12 +750,20 @@ The Blues Caravan
     https://www.songkick.com/concerts/30056314-blues-caravan-at-musiktheater-piano
     2018 Feb 11
 
+MERT
+    https://www.songkick.com/concerts/31439509-mert-at-freizeitzentrum-west
+    2018 Feb 15
+
 Terrorgruppe
     https://www.songkick.com/concerts/30809504-terrorgruppe-at-freizeitzentrum-west
     2018 Feb 16
 
 Wynton Marsalis
     https://www.songkick.com/concerts/30342199-wynton-marsalis-at-konzerthaus-dortmund
+    2018 Feb 17
+
+Giant Rooks
+    https://www.songkick.com/concerts/31360544-giant-rooks-at-freizeitzentrum-west
     2018 Feb 17
 
 Paul Panzer
@@ -778,6 +786,10 @@ Dieter Thomas Kuhn & Band
     https://www.songkick.com/concerts/31239419-dieter-thomas-kuhn-and-band-at-freizeitzentrum-west
     2018 Feb 23
 
+Deine Freunde
+    https://www.songkick.com/concerts/31467769-deine-freunde-at-freizeitzentrum-west
+    2018 Feb 25
+
 Die Prinzen
     https://www.songkick.com/concerts/29530029-die-prinzen-at-konzerthaus-dortmund
     2018 Feb 28
@@ -798,6 +810,10 @@ Mitch Ryder
     https://www.songkick.com/concerts/30056104-mitch-ryder-at-musiktheater-piano
     2018 Mar 02
 
+Faber
+    https://www.songkick.com/concerts/31408234-faber-at-freizeitzentrum-west
+    2018 Mar 02
+
 Les BrÃ¼nettes
     https://www.songkick.com/concerts/30890969-les-brunettes-at-domicil
     2018 Mar 02
@@ -806,16 +822,36 @@ Feine Sahne Fischfilet
     https://www.songkick.com/concerts/31221144-feine-sahne-fischfilet-at-phoenixhalle
     2018 Mar 03
 
+Bounce Bon Jovi Tributeband
+    https://www.songkick.com/concerts/31416719-bounce-bon-jovi-tributeband-at-musiktheater-piano
+    2018 Mar 03
+
 Prinz Pi
     https://www.songkick.com/concerts/31022419-prinz-pi-at-freizeitzentrum-west
     2018 Mar 08
 
+Steve Rothery
+    https://www.songkick.com/concerts/31368929-steve-rothery-at-musiktheater-piano
+    2018 Mar 09
+
 Sunrise Avenue
-    https://www.songkick.com/concerts/31035969-sunrise-avenue-at-westfalenhalle-1
+    https://www.songkick.com/concerts/31035969-sunrise-avenue-at-westfalenhalle
     2018 Mar 10
+
+Time Bandits
+    https://www.songkick.com/concerts/31438484-time-bandits-at-musiktheater-piano
+    2018 Mar 10
+
+Marteria
+    https://www.songkick.com/concerts/31381439-marteria-at-phoenixhalle
+    2018 Mar 11
 
 King King
     https://www.songkick.com/concerts/30980034-king-king-at-musiktheater-piano
+    2018 Mar 11
+
+Eric Gales  Gary Hoey and Quinn Sullivan
+    https://www.songkick.com/concerts/31468064-eric-gales-at-freizeitzentrum-west
     2018 Mar 11
 
 John Illsley
@@ -842,6 +878,10 @@ Avi Avital
     https://www.songkick.com/concerts/30257434-avi-avital-at-konzerthaus-dortmund
     2018 Mar 17
 
+Dirty Deeds '79
+    https://www.songkick.com/concerts/31416684-dirty-deeds-79-at-musiktheater-piano
+    2018 Mar 17
+
 Scott Bradlee's Postmodern Jukebox
     https://www.songkick.com/concerts/31227194-scott-bradlees-postmodern-jukebox-at-freizeitzentrum-west
     2018 Mar 18
@@ -858,9 +898,17 @@ Donots
     https://www.songkick.com/concerts/31067509-donots-at-freizeitzentrum-west
     2018 Mar 20
 
+Wanda
+    https://www.songkick.com/concerts/31308354-wanda-at-phoenixhalle
+    2018 Mar 21
+
 Patrick Stanke
     https://www.songkick.com/concerts/30116849-patrick-stanke-at-hansatheater-horde
     2018 Mar 23
+
+Benny Greb
+    https://www.songkick.com/concerts/31458239-benny-greb-at-domicil
+    2018 Mar 24
 
 Thomas Borchert
     https://www.songkick.com/concerts/29949979-thomas-borchert-at-hansatheater-horde
@@ -869,6 +917,10 @@ Thomas Borchert
 Peter Kraus
     https://www.songkick.com/concerts/30269724-peter-kraus-at-konzerthaus-dortmund
     2018 Mar 25
+
+Savoy Brown
+    https://www.songkick.com/concerts/31437259-savoy-brown-at-musiktheater-piano
+    2018 Apr 01
 
 Moses Pelham
     https://www.songkick.com/concerts/30872889-moses-pelham-at-freizeitzentrum-west
@@ -906,12 +958,32 @@ Youn Sun Nah
     https://www.songkick.com/concerts/30268999-youn-sun-nah-at-konzerthaus-dortmund
     2018 Apr 22
 
+Sari Schorr
+    https://www.songkick.com/concerts/31418089-sari-schorr-at-musiktheater-piano
+    2018 Apr 22
+
+Dr. Feelgood
+    https://www.songkick.com/concerts/31451879-dr-feelgood-at-musiktheater-piano
+    2018 Apr 24
+
+Patricia Vonne
+    https://www.songkick.com/concerts/31416819-patricia-vonne-at-musiktheater-piano
+    2018 Apr 26
+
+Remode
+    https://www.songkick.com/concerts/31416749-remode-at-musiktheater-piano
+    2018 Apr 27
+
 Mireille Mathieu
     https://www.songkick.com/concerts/31239299-mireille-mathieu-at-konzerthaus-dortmund
     2018 May 03
 
 Alexander Marcus
     https://www.songkick.com/concerts/30800204-alexander-marcus-at-westfalenhalle-3a
+    2018 May 04
+
+EivÃ¸r
+    https://www.songkick.com/concerts/31327774-eivor-at-konzerthaus-dortmund
     2018 May 04
 
 Toast Hawaii
@@ -934,6 +1006,10 @@ Sebastian 23
     https://www.songkick.com/concerts/30454674-sebastian-23-at-fritzhensslerhaus
     2018 May 09
 
+Band of Friends
+    https://www.songkick.com/concerts/31437244-band-of-friends-at-musiktheater-piano
+    2018 May 11
+
 Zucchini Sistaz
     https://www.songkick.com/concerts/30117684-zucchini-sistaz-at-hansatheater-horde
     2018 May 12
@@ -950,9 +1026,17 @@ Bodo Wartke
     https://www.songkick.com/concerts/30405039-bodo-wartke-at-konzerthaus-dortmund
     2018 May 30
 
+Ryan McGarvey
+    https://www.songkick.com/concerts/31437204-ryan-mcgarvey-at-musiktheater-piano
+    2018 Jun 03
+
 Fee Badenius
     https://www.songkick.com/concerts/31231534-fee-badenius-at-fritzhensslerhaus
     2018 Jun 06
+
+Forgotten Sons
+    https://www.songkick.com/concerts/31417999-forgotten-sons-at-musiktheater-piano
+    2018 Jun 09
 
 Auftakt
     https://www.songkick.com/concerts/30288364-auftakt-at-ev-st-nicolai-kirche
