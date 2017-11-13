@@ -1,67 +1,3 @@
-Jamiroquai
-    https://www.songkick.com/concerts/29499469-jamiroquai-at-mitsubishi-electric-halle
-    2017 Nov 07
-
-Fox and Bones
-    https://www.songkick.com/concerts/30727079-fox-and-bones-at-cube
-    2017 Nov 07
-
-Mammoth Mammoth
-    https://www.songkick.com/concerts/30592714-mammoth-mammoth-at-pitcher
-    2017 Nov 08
-
-Simon & Jan
-    https://www.songkick.com/concerts/29812469-simon-and-jan-at-zakk-halle
-    2017 Nov 09
-
-Ben Waters
-    https://www.songkick.com/concerts/31209909-ben-waters-at-kulturvilla-mettmann
-    2017 Nov 09
-
-Rantanplan
-    https://www.songkick.com/concerts/29762549-rantanplan-at-pitcher
-    2017 Nov 10
-
-Altan
-    https://www.songkick.com/concerts/29260029-altan-at-stone-im-ratinger-hof
-    2017 Nov 10
-
-Dirty Deeds '79
-    https://www.songkick.com/concerts/30301814-dirty-deeds-79-at-spektakulum
-    2017 Nov 10
-
-Georgette Dee
-    https://www.songkick.com/concerts/29541479-georgette-dee-at-savoy-theater
-    2017 Nov 10
-
-Felix Meyer  ERIK MANOUZ
-    https://www.songkick.com/concerts/30131454-felix-meyer-at-fft-kammerspiele
-    2017 Nov 10
-
-Zona 84
-    https://www.songkick.com/concerts/31493159-zona-84-at-ak-47
-    2017 Nov 10
-
-Joy Denalane
-    https://www.songkick.com/concerts/30002754-joy-denalane-at-robert-schumann-saal
-    2017 Nov 11
-
-Rantanplan
-    https://www.songkick.com/concerts/29762554-rantanplan-at-pitcher
-    2017 Nov 11
-
-Sookee
-    https://www.songkick.com/concerts/29007229-sookee-at-zakk-halle
-    2017 Nov 11
-
-Felix Meyer  ERIK MANOUZ
-    https://www.songkick.com/concerts/31467494-felix-meyer-at-fft-kammerspiele
-    2017 Nov 11
-
-WÃLDER and Conny Zenk  Granulit
-    https://www.songkick.com/concerts/31774454-waelder-at-sipgate
-    2017 Nov 11
-
 Karl Bartos
     https://www.songkick.com/concerts/31383624-karl-bartos-at-zakk-halle
     2017 Nov 13
@@ -74,7 +10,7 @@ Basta
     https://www.songkick.com/concerts/29280189-basta-at-savoy-theater
     2017 Nov 15
 
-New Fall Festival 2017  Hayden Calnin, Moglii, GURR, Isolation Berlin, Love Machine, and Lasse Matthiessen
+New Fall Festival 2017  Hayden Calnin, Moglii, GURR, Isolation Berlin, Love A, Love Machine, Lasse Matthiessen, and Suzan KÃ¶cher
     https://www.songkick.com/festivals/279213-new-fall/id/30262854-new-fall-festival-2017
     2017 Nov 15
 
@@ -123,19 +59,19 @@ William Fitzsimmons and Alice Phoebe Lou
     2017 Nov 17
 
 Sophia
-    https://www.songkick.com/concerts/30341469-sophia-at-ev-johanneskirche-bachsaal
+    https://www.songkick.com/concerts/30341469-sophia-at-bachsaal
     2017 Nov 17
 
 Alice Merton
     https://www.songkick.com/concerts/30388134-alice-merton-at-robert-schumann-saal
     2017 Nov 17
 
-Megaloh
-    https://www.songkick.com/concerts/30512224-megaloh-at-capitol-theater
-    2017 Nov 17
-
 Fil Bo Riva
     https://www.songkick.com/concerts/31719259-fil-bo-riva-at-tanzhaus-nrw
+    2017 Nov 17
+
+Megaloh
+    https://www.songkick.com/concerts/30512224-megaloh-at-capitol-theater
     2017 Nov 17
 
 Stefan Gwildis
@@ -143,7 +79,11 @@ Stefan Gwildis
     2017 Nov 17
 
 Ansa Sauermann
-    https://www.songkick.com/concerts/31368549-ansa-sauermann-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/31368549-ansa-sauermann-at-zakk-club
+    2017 Nov 17
+
+die digitale 2017  ponyduesseldorf
+    https://www.songkick.com/festivals/2098404-die-digitale/id/31890669-die-digitale-2017
     2017 Nov 17
 
 Gorillaz  Little Simz
@@ -163,7 +103,7 @@ Ben L'Oncle Soul
     2017 Nov 18
 
 Thurston Moore
-    https://www.songkick.com/concerts/31588994-thurston-moore-at-ev-johanneskirche-bachsaal
+    https://www.songkick.com/concerts/31588994-thurston-moore-at-bachsaal
     2017 Nov 18
 
 Kensington
@@ -226,6 +166,10 @@ TV Smith
     https://www.songkick.com/concerts/31149989-tv-smith-at-pitcher
     2017 Nov 24
 
+Zweitages
+    https://www.songkick.com/concerts/31847944-zweitages-at-filmwerkstatt
+    2017 Nov 24
+
 Approximation Festival 2017  Joep Beving
     https://www.songkick.com/festivals/322-approximation/id/31645614-approximation-festival-2017
     2017 Nov 24
@@ -254,12 +198,16 @@ Stefan Schneider and graph (Dusseldorf)
     https://www.songkick.com/concerts/31774639-stefan-schneider-at-masterplan-studios
     2017 Nov 26
 
+die Ehrlichen Arbeiter
+    https://www.songkick.com/concerts/31893014-die-ehrlichen-arbeiter-at-mosaik
+    2017 Nov 26
+
 Glenn Miller Orchestra
     https://www.songkick.com/concerts/29347059-glenn-miller-orchestra-at-tonhalle-dusseldorf
     2017 Nov 27
 
 Bugge Wesseltoft
-    https://www.songkick.com/concerts/30979809-bugge-wesseltoft-at-ev-johanneskirche-bachsaal
+    https://www.songkick.com/concerts/30979809-bugge-wesseltoft-at-bachsaal
     2017 Nov 28
 
 Marilyn Manson
@@ -267,7 +215,7 @@ Marilyn Manson
     2017 Nov 29
 
 Deaf Havana
-    https://www.songkick.com/concerts/31092254-deaf-havana-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/31092254-deaf-havana-at-zakk-club
     2017 Nov 29
 
 James Newton Howard  Czech National Symphony Orchestra
@@ -378,12 +326,12 @@ Hauschka
     https://www.songkick.com/concerts/31209874-hauschka-at-ev-johanneskirche-stadtkirche
     2017 Dec 08
 
-Klaus Hoffmann
-    https://www.songkick.com/concerts/29552179-klaus-hoffmann-at-savoy-theater
-    2017 Dec 08
-
 4 Promille
     https://www.songkick.com/concerts/31602794-4-promille-at-pitcher
+    2017 Dec 08
+
+Klaus Hoffmann
+    https://www.songkick.com/concerts/29552179-klaus-hoffmann-at-savoy-theater
     2017 Dec 08
 
 Guildo Horn
@@ -451,7 +399,7 @@ TÃ©tÃ©
     2017 Dec 15
 
 Flowerpornoes
-    https://www.songkick.com/concerts/30827779-flowerpornoes-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/30827779-flowerpornoes-at-zakk-club
     2017 Dec 15
 
 GÃ¶tz Alsmann
@@ -631,7 +579,7 @@ V8 Wankers
     2018 Jan 13
 
 Kopfecho
-    https://www.songkick.com/concerts/31720439-kopfecho-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/31720439-kopfecho-at-zakk-club
     2018 Jan 13
 
 Patric Heizmann
@@ -651,7 +599,7 @@ Kobito and Amewu
     2018 Jan 19
 
 Andy Strauss
-    https://www.songkick.com/concerts/29128139-andy-strauss-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/29128139-andy-strauss-at-zakk-club
     2018 Jan 19
 
 Maiden United
@@ -680,6 +628,10 @@ Basta
 
 We Stood Like Kings
     https://www.songkick.com/concerts/30777039-we-stood-like-kings-at-black-box-im-filmmuseum
+    2018 Jan 27
+
+Barrenstein
+    https://www.songkick.com/concerts/31848754-barrenstein-at-tube
     2018 Jan 27
 
 Schiller
@@ -735,7 +687,7 @@ The Ukulele Orchestra of Great Britain
     2018 Feb 10
 
 UK Subs
-    https://www.songkick.com/concerts/31397124-uk-subs-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/31397124-uk-subs-at-zakk-club
     2018 Feb 15
 
 Santiano
@@ -783,7 +735,11 @@ Quadro Nuevo
     2018 Feb 23
 
 Erik Cohen
-    https://www.songkick.com/concerts/31104884-erik-cohen-at-zentrum-fur-aktion-kultur-und-kommunikation
+    https://www.songkick.com/concerts/31104884-erik-cohen-at-zakk-club
+    2018 Feb 23
+
+Vizediktator
+    https://www.songkick.com/concerts/31874064-vizediktator-at-tube
     2018 Feb 23
 
 Duncan Reid
@@ -854,6 +810,10 @@ Deutsche Oper am Rhein
     https://www.songkick.com/concerts/29840369-deutsche-oper-am-rhein-at-opernhaus
     2018 Mar 11
 
+Naturally 7
+    https://www.songkick.com/concerts/31883279-naturally-7-at-savoy-theater
+    2018 Mar 13
+
 Jurgen Drews
     https://www.songkick.com/concerts/28984794-jurgen-drews-at-capitol-theater
     2018 Mar 15
@@ -886,6 +846,10 @@ Tim Fischer
     https://www.songkick.com/concerts/30789774-tim-fischer-at-savoy-theater
     2018 Mar 18
 
+Bonnie Tyler
+    https://www.songkick.com/concerts/31848849-bonnie-tyler-at-mitsubishi-electric-halle
+    2018 Mar 19
+
 Anna Depenbusch
     https://www.songkick.com/concerts/31794289-anna-depenbusch-at-savoy-theater
     2018 Mar 20
@@ -902,12 +866,12 @@ Hollywood Rose
     https://www.songkick.com/concerts/31675814-hollywood-rose-at-pitcher
     2018 Mar 23
 
-The Orchestra
-    https://www.songkick.com/concerts/30864239-orchestra-at-mitsubishi-electric-halle
-    2018 Mar 23
-
 Tom Gaebel
     https://www.songkick.com/concerts/31675204-tom-gaebel-at-savoy-theater
+    2018 Mar 23
+
+The Orchestra
+    https://www.songkick.com/concerts/30864239-orchestra-at-mitsubishi-electric-halle
     2018 Mar 23
 
 Melina Aslanidou
@@ -946,6 +910,10 @@ Orchestre de chambre de Paris and Gautier CapuÃ§on
     https://www.songkick.com/concerts/30057944-orchestre-de-chambre-de-paris-at-tonhalle-dusseldorf
     2018 Apr 09
 
+Trivium
+    https://www.songkick.com/concerts/31888094-trivium-at-tonhalle-dusseldorf
+    2018 Apr 11
+
 The Pasadena Roof Orchestra
     https://www.songkick.com/concerts/30890489-pasadena-roof-orchestra-at-savoy-theater
     2018 Apr 12
@@ -965,6 +933,10 @@ Thommy Ten & AmÃ©lie Van Tass
 The Denim Demons
     https://www.songkick.com/concerts/31834419-denim-demons-at-pitcher
     2018 Apr 13
+
+The Selecter, The Beat, and The Beat feat. Ranking Roger
+    https://www.songkick.com/concerts/31851254-selecter-at-zakk-halle
+    2018 Apr 14
 
 Thommy Ten & AmÃ©lie Van Tass
     https://www.songkick.com/concerts/30000849-thommy-ten-and-amelie-van-tass-at-capitol-theater
@@ -1046,12 +1018,20 @@ Mireille Mathieu
     https://www.songkick.com/concerts/31239324-mireille-mathieu-at-tonhalle-dusseldorf
     2018 May 04
 
+GÃ¶tz Alsmann
+    https://www.songkick.com/concerts/31862049-gotz-alsmann-at-savoy-theater
+    2018 May 04
+
 Vega
     https://www.songkick.com/concerts/29811689-vega-at-tube
     2018 May 05
 
 BlÃ¤ck FÃ¶Ã¶ss
     https://www.songkick.com/concerts/30890444-black-fooss-at-theater-an-der-ko
+    2018 May 05
+
+GÃ¶tz Alsmann
+    https://www.songkick.com/concerts/31862054-gotz-alsmann-at-savoy-theater
     2018 May 05
 
 BlÃ¤ck FÃ¶Ã¶ss
@@ -1069,6 +1049,10 @@ OVE (DE)
 Lisa Stansfield
     https://www.songkick.com/concerts/31741499-lisa-stansfield-at-capitol-theater
     2018 May 11
+
+Max Mutzke
+    https://www.songkick.com/concerts/31882779-max-mutzke-at-tonhalle-dusseldorf
+    2018 May 14
 
 Randy Crawford
     https://www.songkick.com/concerts/31835839-randy-crawford-at-tonhalle-dusseldorf
@@ -1154,6 +1138,14 @@ Paul Panzer
     https://www.songkick.com/concerts/30581909-paul-panzer-at-mitsubishi-eletric-halle
     2018 Nov 16
 
+Martin Herzberg
+    https://www.songkick.com/concerts/31883249-martin-herzberg-at-schlensogs-klavierkapelle
+    2018 Nov 17
+
+Martin Herzberg
+    https://www.songkick.com/concerts/31883254-martin-herzberg-at-schlensogs-klavierkapelle
+    2018 Nov 18
+
 Max Raabe & Palast Orchester
     https://www.songkick.com/concerts/31468394-max-raabe-and-palast-orchester-at-tonhalle-dusseldorf
     2018 Nov 20
@@ -1173,6 +1165,10 @@ Angelo Kelly
 Martin RÃ¼tter
     https://www.songkick.com/concerts/30047499-martin-rutter-at-mitsubishi-eletric-halle
     2018 Dec 20
+
+Smoke Blow
+    https://www.songkick.com/concerts/31883774-smoke-blow-at-zakk-halle
+    2018 Dec 22
 
 Massendefekt
     https://www.songkick.com/concerts/31417729-massendefekt-at-mitsubishi-electric-halle
