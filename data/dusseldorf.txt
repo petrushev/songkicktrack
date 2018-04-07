@@ -1,23 +1,3 @@
-The Weight
-    https://www.songkick.com/concerts/31934684-weight-at-pitcher
-    2018 Apr 03
-
-Eau Rouge  LETLOWE
-    https://www.songkick.com/concerts/32762169-eau-rouge-at-tube
-    2018 Apr 03
-
-David Christopher (GER)
-    https://www.songkick.com/concerts/33256199-david-christopher-ger-at-sub
-    2018 Apr 04
-
-Leo Grande
-    https://www.songkick.com/concerts/32775129-leo-grande-at-hotel-friends
-    2018 Apr 05
-
-Promise
-    https://www.songkick.com/concerts/32436964-promise-at-tube
-    2018 Apr 06
-
 Tarkan
     https://www.songkick.com/concerts/31720294-tarkan-at-mitsubishi-electric-halle
     2018 Apr 07
@@ -58,7 +38,7 @@ Noel Gallagher's High Flying Birds
     https://www.songkick.com/concerts/31424144-noel-gallaghers-high-flying-birds-at-mitsubishi-electric-halle
     2018 Apr 09
 
-Yonas
+Yonas  Dreamers Delight
     https://www.songkick.com/concerts/32972799-yonas-at-zakk
     2018 Apr 09
 
@@ -104,6 +84,10 @@ Dog Eat Dog
 
 Offenders
     https://www.songkick.com/concerts/30683804-offenders-at-tube
+    2018 Apr 13
+
+Awa Ly
+    https://www.songkick.com/concerts/33439644-awa-ly-at-kit-cafe
     2018 Apr 13
 
 Thommy Ten & AmÃ©lie Van Tass
@@ -176,6 +160,10 @@ Blackout Problems
 
 passive elephants
     https://www.songkick.com/concerts/31400029-passive-elephants-at-unknown-venue
+    2018 Apr 20
+
+thegaes  Three Minute Record
+    https://www.songkick.com/concerts/33427089-thegaes-at-pitcher
     2018 Apr 20
 
 Radio Havanna
@@ -256,6 +244,10 @@ Mainfelt  Hannah & Falco
 
 Maren Kroymann
     https://www.songkick.com/concerts/31367049-maren-kroymann-at-savoy-theater
+    2018 Apr 28
+
+Loona
+    https://www.songkick.com/concerts/33483349-loona-at-kalkar
     2018 Apr 28
 
 Luka Bloom
@@ -494,6 +486,10 @@ Galactic Superlords and The Lykes
     https://www.songkick.com/concerts/33242099-galactic-superlords-at-brause
     2018 May 19
 
+Baumann Bergmann Pokinsson
+    https://www.songkick.com/concerts/33435794-baumann-bergmann-pokinsson-at-district-6
+    2018 May 19
+
 Jazz Ralley DÃ¼sseldorf 2018  Broken Brass Ensemble
     https://www.songkick.com/festivals/2274479-jazz-ralley-dusseldorf/id/33173039-jazz-ralley-dsseldorf-2018
     2018 May 20
@@ -570,6 +566,10 @@ FRIZZO
     https://www.songkick.com/concerts/32577874-frizzo-at-rudas-studios
     2018 May 30
 
+Gregor Samsa
+    https://www.songkick.com/concerts/33446684-gregor-samsa-at-goethegymnasium
+    2018 Jun 01
+
 Jaya the Cat
     https://www.songkick.com/concerts/33367809-jaya-the-cat-at-stone-im-ratinger-hof
     2018 Jun 02
@@ -588,6 +588,10 @@ Mammal Hands
 
 theAngelcy
     https://www.songkick.com/concerts/33003279-theangelcy-at-zakk-club
+    2018 Jun 05
+
+Moon King
+    https://www.songkick.com/concerts/33435479-moon-king-at-cube
     2018 Jun 05
 
 Nie und Nimmer
@@ -758,6 +762,10 @@ Voodoo Glow Skulls
     https://www.songkick.com/concerts/31813129-voodoo-glow-skulls-at-tube
     2018 Jul 28
 
+Fazerdaze
+    https://www.songkick.com/concerts/33478304-fazerdaze-at-zakk-club
+    2018 Aug 01
+
 Mammoth Mammoth
     https://www.songkick.com/concerts/32589179-mammoth-mammoth-at-pitcher
     2018 Aug 03
@@ -884,6 +892,10 @@ Flash Forward
 
 Morgan Finlay
     https://www.songkick.com/concerts/32333229-morgan-finlay-at-living-room-show
+    2018 Sep 22
+
+Terry Hoax
+    https://www.songkick.com/concerts/33477424-terry-hoax-at-stone-im-ratinger-hof
     2018 Sep 22
 
 WDR Funkhausorchester
@@ -1019,11 +1031,11 @@ Paul Panzer
     2018 Nov 16
 
 Martin Herzberg
-    https://www.songkick.com/concerts/31883249-martin-herzberg-at-schlensogs-klavierkapelle
+    https://www.songkick.com/concerts/31883249-martin-herzberg-at-garather-schlosskapelle
     2018 Nov 17
 
 Martin Herzberg
-    https://www.songkick.com/concerts/31883254-martin-herzberg-at-schlensogs-klavierkapelle
+    https://www.songkick.com/concerts/31883254-martin-herzberg-at-garather-schlosskapelle
     2018 Nov 18
 
 Fug und Janina, Janina und die Kinderlieder, and Janina (DE)
@@ -1066,6 +1078,10 @@ FRIZZO
     https://www.songkick.com/concerts/32867019-frizzo-at-nachtresidenz
     2018 Dec 01
 
+Rogers (DE)
+    https://www.songkick.com/concerts/33488319-rogers-de-at-zakk
+    2018 Dec 01
+
 The Dublin Legends
     https://www.songkick.com/concerts/32093274-dublin-legends-at-savoy-theater
     2018 Dec 03
@@ -1087,11 +1103,11 @@ GÃ¶tz Alsmann
     2018 Dec 07
 
 Tom Gaebel
-    https://www.songkick.com/concerts/33239884-tom-gaebel-at-savoy-theater
+    https://www.songkick.com/concerts/33239889-tom-gaebel-at-savoy-theater
     2018 Dec 08
 
 Tom Gaebel
-    https://www.songkick.com/concerts/33239889-tom-gaebel-at-savoy-theater
+    https://www.songkick.com/concerts/33239884-tom-gaebel-at-savoy-theater
     2018 Dec 08
 
 Denis Matsuev
