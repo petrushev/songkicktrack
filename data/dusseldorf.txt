@@ -1,39 +1,3 @@
-Tarkan
-    https://www.songkick.com/concerts/31720294-tarkan-at-mitsubishi-electric-halle
-    2018 Apr 07
-
-Dame
-    https://www.songkick.com/concerts/32106594-dame-at-zakk-halle
-    2018 Apr 07
-
-Juan Diego Florez and Riccardo Minasi
-    https://www.songkick.com/concerts/30743054-juan-diego-florez-at-tonhalle-dusseldorf
-    2018 Apr 07
-
-Die Radierer
-    https://www.songkick.com/concerts/33303514-die-radierer-at-brause
-    2018 Apr 07
-
-FRIZZO
-    https://www.songkick.com/concerts/32258689-frizzo-at-nachtresidenz
-    2018 Apr 07
-
-Black Raven 4. Album Release Party 2018  Black Raven
-    https://www.songkick.com/festivals/2194239-black-raven-4-album-release-party/id/32634994-black-raven-4-album-release-party-2018
-    2018 Apr 07
-
-Jakob Bruckner
-    https://www.songkick.com/concerts/32057104-jakob-bruckner-at-tube
-    2018 Apr 08
-
-Tarkan
-    https://www.songkick.com/concerts/32286174-tarkan-at-mitsubishi-electric-halle
-    2018 Apr 08
-
-Ryan O'Reilly
-    https://www.songkick.com/concerts/32966984-ryan-oreilly-at-die-kassette
-    2018 Apr 08
-
 Noel Gallagher's High Flying Birds
     https://www.songkick.com/concerts/31424144-noel-gallaghers-high-flying-birds-at-mitsubishi-electric-halle
     2018 Apr 09
@@ -250,6 +214,10 @@ Loona
     https://www.songkick.com/concerts/33483349-loona-at-kalkar
     2018 Apr 28
 
+Perfect Giddimani and Young Shanty
+    https://www.songkick.com/concerts/33491064-perfect-giddimani-at-r25-kulturschlachthof
+    2018 Apr 28
+
 Luka Bloom
     https://www.songkick.com/concerts/31021819-luka-bloom-at-savoy-theater
     2018 Apr 30
@@ -328,6 +296,10 @@ BlÃ¤ck FÃ¶Ã¶ss
 
 FRIZZO
     https://www.songkick.com/concerts/32394634-frizzo-at-nachtresidenz
+    2018 May 05
+
+Kent Coda and The Great Park
+    https://www.songkick.com/concerts/33495794-kent-coda-at-weltkunstzimmer
     2018 May 05
 
 BlÃ¤ck FÃ¶Ã¶ss
@@ -754,6 +726,10 @@ Motorpsycho
     https://www.songkick.com/concerts/32547404-motorpsycho-at-zakk-halle
     2018 Jul 26
 
+VierLinden Open-Air 2018  BRETT (DE)
+    https://www.songkick.com/festivals/2326244-vierlinden-openair/id/33496609-vierlinden-openair-2018
+    2018 Jul 26
+
 The Dickies
     https://www.songkick.com/concerts/32382969-dickies-at-stone-im-ratinger-hof
     2018 Jul 27
@@ -978,6 +954,10 @@ The Posies and Ken Stringfellow
     https://www.songkick.com/concerts/33396489-posies-at-zakk-club
     2018 Oct 16
 
+Datenschmutz  Drei Meter Feldweg and Fluegge
+    https://www.songkick.com/concerts/33500714-datenschmutz-at-tube
+    2018 Oct 19
+
 Mike Singer  Deja Vu
     https://www.songkick.com/concerts/32073974-mike-singer-at-stahlwerk
     2018 Oct 20
@@ -1080,6 +1060,10 @@ FRIZZO
 
 Rogers (DE)
     https://www.songkick.com/concerts/33488319-rogers-de-at-zakk
+    2018 Dec 01
+
+The Rogers
+    https://www.songkick.com/concerts/33493154-rogers-at-zakk-halle
     2018 Dec 01
 
 The Dublin Legends
