@@ -1,67 +1,3 @@
-Car Seat Headrest
-    https://www.songkick.com/concerts/32421574-car-seat-headrest-at-luxor
-    2018 May 29
-
-Louis Baker and Harrison Storm
-    https://www.songkick.com/concerts/33038674-louis-baker-at-theater-der-wohngemeinschaft
-    2018 May 29
-
-Palm
-    https://www.songkick.com/concerts/32948704-palm-at-bumann-and-sohn
-    2018 May 29
-
-Naked Giants
-    https://www.songkick.com/concerts/34033024-naked-giants-at-die-kantine
-    2018 May 29
-
-Argies
-    https://www.songkick.com/concerts/33022734-argies-at-mtc
-    2018 May 29
-
-We Are Scientists
-    https://www.songkick.com/concerts/32075104-we-are-scientists-at-gebaude-9
-    2018 May 30
-
-Bassjackers, Cesqeaux, and Gigo'n'Migo  Oliver Magenta and ontonic
-    https://www.songkick.com/concerts/33805709-bassjackers-at-bootshaus
-    2018 May 30
-
-buzz kull and Die Selektion  Bad News from Cosmos
-    https://www.songkick.com/concerts/33491024-buzz-kull-at-tsunami-club
-    2018 May 30
-
-WDR Big Band
-    https://www.songkick.com/concerts/32670364-wdr-big-band-at-gloria-theater
-    2018 May 30
-
-The Bar Stool Preachers
-    https://www.songkick.com/concerts/33747759-bar-stool-preachers-at-jungle
-    2018 May 30
-
-Some Sprouts
-    https://www.songkick.com/concerts/33961204-some-sprouts-at-gebaude-9
-    2018 May 30
-
-5 Jahre Beats x Bass x Cologne Pt. II 2018  Format:B, Diskord, Void, Macky Gee, Sasha Carassi, Pat Panda, BjÃ¶rn Grimm, and Antipolar
-    https://www.songkick.com/festivals/2396939-5-jahre-beats-x-bass-x-cologne-pt-ii/id/33913364-5-jahre-beats-x-bass-x-cologne-pt-ii-2018
-    2018 May 30
-
-SAINt JHN
-    https://www.songkick.com/concerts/33363164-saint-jhn-at-yuca
-    2018 May 31
-
-Bodo Wartke
-    https://www.songkick.com/concerts/30334984-bodo-wartke-at-kolner-philharmonie
-    2018 May 31
-
-The Night Game
-    https://www.songkick.com/concerts/32975854-night-game-at-artheater
-    2018 May 31
-
-13 Crowes, Kamikaze Girls, and Nervus
-    https://www.songkick.com/concerts/33246449-13-crowes-at-tsunami-club
-    2018 May 31
-
 lil skies
     https://www.songkick.com/concerts/33056349-lil-skies-at-club-bahnhof-ehrenfeld
     2018 Jun 01
@@ -154,7 +90,7 @@ Actimax
     https://www.songkick.com/concerts/34086624-actimax-at-unknown-venue
     2018 Jun 02
 
-Rock am Scheelbach 2018  LETLOWE, Secret Vaccine, and Snakebite (GER)
+Rock am Scheelbach 2018  Secret Vaccine, LETLOWE, and Snakebite (GER)
     https://www.songkick.com/festivals/1880454-rock-am-scheelbach/id/33759029-rock-am-scheelbach-2018
     2018 Jun 02
 
@@ -190,16 +126,16 @@ Bob Reynolds
     https://www.songkick.com/concerts/33885239-bob-reynolds-at-unknown-venue
     2018 Jun 04
 
+Stanley Brinks
+    https://www.songkick.com/concerts/34023939-stanley-brinks-at-die-hangenden-garten-von-ehrenfeld
+    2018 Jun 04
+
 Ryan McGarvey
     https://www.songkick.com/concerts/32030584-ryan-mcgarvey-at-yard-club-die-kantine
     2018 Jun 04
 
 Freschard
     https://www.songkick.com/concerts/34023819-freschard-at-die-hangenden-garten-von-ehrenfeld
-    2018 Jun 04
-
-Stanley Brinks
-    https://www.songkick.com/concerts/34023939-stanley-brinks-at-die-hangenden-garten-von-ehrenfeld
     2018 Jun 04
 
 Shakira
@@ -238,16 +174,20 @@ The Dangerous Summer
     https://www.songkick.com/concerts/33829554-dangerous-summer-at-mtc
     2018 Jun 06
 
+Sir Simon Rattle
+    https://www.songkick.com/concerts/32342009-sir-simon-rattle-at-kolner-philharmonie
+    2018 Jun 06
+
 Moon King
     https://www.songkick.com/concerts/33435514-moon-king-at-acephale
     2018 Jun 06
 
-BlÃ¤ck FÃ¶Ã¶ss
-    https://www.songkick.com/concerts/32121314-black-fooss-at-kulturkirche
+Shock Therapy
+    https://www.songkick.com/concerts/34093644-shock-therapy-at-sonic-ballroom
     2018 Jun 06
 
-Sir Simon Rattle
-    https://www.songkick.com/concerts/32342009-sir-simon-rattle-at-kolner-philharmonie
+BlÃ¤ck FÃ¶Ã¶ss
+    https://www.songkick.com/concerts/32121314-black-fooss-at-kulturkirche
     2018 Jun 06
 
 The Faim
@@ -362,12 +302,12 @@ Art Of Dark 2018  Sieben and Thomas Truax
     https://www.songkick.com/festivals/2316414-art-of-dark/id/33434864-art-of-dark-2018
     2018 Jun 09
 
-Ondt blod
-    https://www.songkick.com/concerts/33397354-ondt-blod-at-mtc
-    2018 Jun 10
-
 Sean Nicholas Savage
     https://www.songkick.com/concerts/34072714-sean-nicholas-savage-at-acephale
+    2018 Jun 10
+
+Ondt blod
+    https://www.songkick.com/concerts/33397354-ondt-blod-at-mtc
     2018 Jun 10
 
 Roger Waters
@@ -436,6 +376,10 @@ Deep Schrott
 
 Kai Otten
     https://www.songkick.com/concerts/33917544-kai-otten-at-mediterana
+    2018 Jun 14
+
+Telepathy (UK)  Noorvik
+    https://www.songkick.com/concerts/34121254-telepathy-uk-at-jungle
     2018 Jun 14
 
 Current Swell
@@ -706,16 +650,16 @@ Dieter Thomas Kuhn & Band
     https://www.songkick.com/concerts/31239429-dieter-thomas-kuhn-and-band-at-tanzbrunnen
     2018 Jun 29
 
+WDR Big Band
+    https://www.songkick.com/concerts/33033904-wdr-big-band-at-kolner-philharmonie
+    2018 Jun 29
+
 Black Elephant Band
     https://www.songkick.com/concerts/32361294-black-elephant-band-at-artfarm
     2018 Jun 29
 
 Wdr Rundfunkchor
     https://www.songkick.com/concerts/30617624-wdr-rundfunkchor-at-klausvonbismarcksaal
-    2018 Jun 29
-
-WDR Big Band
-    https://www.songkick.com/concerts/33033904-wdr-big-band-at-kolner-philharmonie
     2018 Jun 29
 
 Tiktaalik
@@ -748,6 +692,10 @@ Thales Boutroumlis
 
 Reggie Watts
     https://www.songkick.com/concerts/33746939-reggie-watts-at-ewerk
+    2018 Jul 01
+
+Super Flu
+    https://www.songkick.com/concerts/34104419-super-flu-at-odonien
     2018 Jul 01
 
 Odonien 2018  Bebetta
@@ -894,12 +842,12 @@ Underdark
     https://www.songkick.com/concerts/33126154-underdark-at-unknown-venue
     2018 Jul 13
 
-Ãmit Han
-    https://www.songkick.com/concerts/32625054-umit-han-at-lsbtv-live-broadcast-from-cologne
-    2018 Jul 14
-
 Eliaband and Playground
     https://www.songkick.com/concerts/32783764-eliaband-at-mtc
+    2018 Jul 14
+
+Ãmit Han
+    https://www.songkick.com/concerts/32625054-umit-han-at-lsbtv-live-broadcast-from-cologne
     2018 Jul 14
 
 Sonnenbrand Festival 2018  Max Fail and L3N
@@ -945,6 +893,10 @@ Willer
 Field Invasion Festival 2018  bloodspot, Path of Destiny, When Stars Collide, Fateful Finality, The Legion: Ghost, and Sic Zone
     https://www.songkick.com/festivals/2234259-field-invasion/id/33903649-field-invasion-festival-2018
     2018 Jul 19
+
+GiiRL
+    https://www.songkick.com/concerts/34128189-giirl-at-koln-international-school-of-design
+    2018 Jul 20
 
 Jonathan Kaspar
     https://www.songkick.com/concerts/33894899-jonathan-kaspar-at-gewolbe
@@ -1010,6 +962,10 @@ The Gaslight Anthem  The Flatliners and Matthew Ryan
     https://www.songkick.com/concerts/32646669-gaslight-anthem-at-palladium
     2018 Jul 28
 
+Russell Swallow
+    https://www.songkick.com/concerts/34116524-russell-swallow-at-kulturcafe-lichtung
+    2018 Jul 28
+
 Tim Green
     https://www.songkick.com/concerts/33100734-tim-green-at-odonien
     2018 Jul 28
@@ -1054,6 +1010,10 @@ Airways
     https://www.songkick.com/concerts/33872884-airways-at-blue-shell
     2018 Aug 01
 
+Tinpan Orange
+    https://www.songkick.com/concerts/33770639-tinpan-orange-at-ruhestorung-im-bauturm
+    2018 Aug 01
+
 Patti Smith
     https://www.songkick.com/concerts/32083839-patti-smith-at-roncalliplatz
     2018 Aug 02
@@ -1086,6 +1046,10 @@ Toxoplasma
     https://www.songkick.com/concerts/34047884-toxoplasma-at-sonic-ballroom
     2018 Aug 04
 
+GiiRL
+    https://www.songkick.com/concerts/34128214-giirl-at-stereo-wonderland
+    2018 Aug 04
+
 Mittelalterlich Phantasie Spectaculum KÃ¶ln 2018  Fiddler's Green, Saltatio Mortis, Versengold, and Mr. Hurley & Die Pulveraffen
     https://www.songkick.com/festivals/1885159-mittelalterlich-phantasie-spectaculum-koln/id/33654619-mittelalterlich-phantasie-spectaculum-kln-2018
     2018 Aug 04
@@ -1097,6 +1061,10 @@ MPS Cologne 2018  ye banished privateers
 PollerWiesen 25 Years 2018
     https://www.songkick.com/festivals/2312939-pollerwiesen-25-years/id/33414034-pollerwiesen-25-years-2018
     2018 Aug 04
+
+Big John Bates
+    https://www.songkick.com/concerts/34092219-big-john-bates-at-museum-fur-angewandte-kunst-koln
+    2018 Aug 07
 
 Hilltop Hoods
     https://www.songkick.com/concerts/33368794-hilltop-hoods-at-live-music-hall
@@ -1121,6 +1089,10 @@ The Akulas
 The Brian Jonestown Massacre
     https://www.songkick.com/concerts/33854439-brian-jonestown-massacre-at-luxor
     2018 Aug 12
+
+Sam Outlaw
+    https://www.songkick.com/concerts/34131309-sam-outlaw-at-luxor
+    2018 Aug 13
 
 Ministry
     https://www.songkick.com/concerts/33265579-ministry-at-essigfabrik
@@ -1230,11 +1202,15 @@ NONN  Colony Zero
     https://www.songkick.com/concerts/33495194-nonn-at-tsunami-club
     2018 Aug 25
 
+Tiefschwarz
+    https://www.songkick.com/concerts/34133359-tiefschwarz-at-heinz-gaul
+    2018 Aug 25
+
 Indie Cologne Festival 2018  Freizeit98
     https://www.songkick.com/festivals/2328569-indie-cologne/id/33507374-indie-cologne-festival-2018
     2018 Aug 25
 
-KÃ¶llefornia Rising Festival 2018  Heat, Noorvik, and Stromkasten
+KÃ¶llefornia Rising Festival 2018  Heat, Drive By Wire, Noorvik, and Stromkasten
     https://www.songkick.com/festivals/2403194-kollefornia-rising/id/33948959-kllefornia-rising-festival-2018
     2018 Aug 25
 
@@ -1342,9 +1318,17 @@ c/o pop Festival: Chic Belgique 2018  OTEO
     https://www.songkick.com/festivals/1219168-co-pop-chic-belgique/id/33891254-co-pop-festival-chic-belgique-2018
     2018 Sep 01
 
+Fard and Tides of Man
+    https://www.songkick.com/concerts/32573474-fard-at-jungle
+    2018 Sep 02
+
 Tommy Engel
     https://www.songkick.com/concerts/33326924-tommy-engel-at-volkstheater-millowitsch
     2018 Sep 02
+
+Youngblood Brass Band
+    https://www.songkick.com/concerts/34138844-youngblood-brass-band-at-club-bahnhof-ehrenfeld
+    2018 Sep 03
 
 U2
     https://www.songkick.com/concerts/32571504-u2-at-lanxess-arena
@@ -1466,12 +1450,16 @@ Rea Garvey
     https://www.songkick.com/concerts/32105274-rea-garvey-at-palladium
     2018 Sep 10
 
+Anna Burch
+    https://www.songkick.com/concerts/33824924-anna-burch-at-king-georg
+    2018 Sep 10
+
 James Walker
     https://www.songkick.com/concerts/33762259-james-walker-at-tee-de-cologne
     2018 Sep 10
 
-Anna Burch
-    https://www.songkick.com/concerts/33824924-anna-burch-at-king-georg
+Home Free
+    https://www.songkick.com/concerts/34111274-home-free-at-gloria-theater
     2018 Sep 10
 
 Marian Hill
@@ -1548,6 +1536,10 @@ Fahnenflucht
 
 Klaus "Major" Heuser Band
     https://www.songkick.com/concerts/32147544-klaus-major-heuser-band-at-scala-club
+    2018 Sep 14
+
+Lithics
+    https://www.songkick.com/concerts/34096344-lithics-at-king-georg
     2018 Sep 14
 
 Rend Collective
@@ -1646,6 +1638,10 @@ Cat Ballou
     https://www.songkick.com/concerts/32628804-cat-ballou-at-ewerk
     2018 Sep 20
 
+WDR Big Band
+    https://www.songkick.com/concerts/34003024-wdr-big-band-at-kolner-philharmonie
+    2018 Sep 20
+
 Laurence Jones
     https://www.songkick.com/concerts/33198559-laurence-jones-at-yard-club-die-kantine
     2018 Sep 20
@@ -1668,10 +1664,6 @@ KlÃngelkÃpp
 
 Alliage Quintett
     https://www.songkick.com/concerts/33934889-alliage-quintett-at-schloss-morsbroich-spiegelsaal
-    2018 Sep 20
-
-WDR Big Band
-    https://www.songkick.com/concerts/34003024-wdr-big-band-at-kolner-philharmonie
     2018 Sep 20
 
 Magasin Du CafÃ©
@@ -1834,16 +1826,16 @@ Ben Caplan
     https://www.songkick.com/concerts/33091329-ben-caplan-at-luxor
     2018 Sep 28
 
+Palaye Royale
+    https://www.songkick.com/concerts/34076429-palaye-royale-at-mtc
+    2018 Sep 28
+
 Jazzkantine
     https://www.songkick.com/concerts/33748409-jazzkantine-at-anneliese-geske-musik-und-kulturhaus
     2018 Sep 28
 
 Chakuza
     https://www.songkick.com/concerts/33184324-chakuza-at-jungle
-    2018 Sep 28
-
-Palaye Royale
-    https://www.songkick.com/concerts/34076429-palaye-royale-at-mtc
     2018 Sep 28
 
 Milliarden
@@ -1982,6 +1974,10 @@ Jimmy Cornett
     https://www.songkick.com/concerts/33915889-jimmy-cornett-at-yard-club-die-kantine
     2018 Oct 04
 
+KlÃngelkÃpp
+    https://www.songkick.com/concerts/34109524-klungelkopp-at-stapelhaus-koln
+    2018 Oct 04
+
 Against the Current
     https://www.songkick.com/concerts/33738919-against-the-current-at-die-kantine
     2018 Oct 05
@@ -2026,6 +2022,10 @@ The O'Reillys & the Paddyhats
     https://www.songkick.com/concerts/33384179-oreillys-and-the-paddyhats-at-club-volta
     2018 Oct 06
 
+Alarmsignal
+    https://www.songkick.com/concerts/34113729-alarmsignal-at-gebaude-9
+    2018 Oct 06
+
 Dermot Kennedy
     https://www.songkick.com/concerts/34038209-dermot-kennedy-at-die-kantine
     2018 Oct 07
@@ -2062,6 +2062,10 @@ Carpark North
     https://www.songkick.com/concerts/33132164-carpark-north-at-club-bahnhof-ehrenfeld
     2018 Oct 09
 
+Hot Snakes
+    https://www.songkick.com/concerts/34108264-hot-snakes-at-gebaude-9
+    2018 Oct 09
+
 Laurel
     https://www.songkick.com/concerts/33930714-laurel-at-blue-shell
     2018 Oct 09
@@ -2084,6 +2088,10 @@ Tommy Engel
 
 Bright Light Bright Light
     https://www.songkick.com/concerts/33326039-bright-light-bright-light-at-yuca
+    2018 Oct 10
+
+Cory Wong
+    https://www.songkick.com/concerts/34140609-cory-wong-at-club-bahnhof-ehrenfeld
     2018 Oct 10
 
 Reef
@@ -2250,6 +2258,10 @@ ME+MARIE
     https://www.songkick.com/concerts/33901664-memarie-at-blue-shell-club
     2018 Oct 16
 
+CLOVES
+    https://www.songkick.com/concerts/34140589-cloves-at-artheater
+    2018 Oct 16
+
 Get Well Soon
     https://www.songkick.com/concerts/33578454-get-well-soon-at-kolner-philharmonie
     2018 Oct 17
@@ -2386,6 +2398,14 @@ Ioana Ilie
     https://www.songkick.com/concerts/32142819-ioana-ilie-at-unknown-venue
     2018 Oct 21
 
+Kennedy Administration
+    https://www.songkick.com/concerts/34128774-kennedy-administration-at-live-proberaum
+    2018 Oct 21
+
+Raphael Saadiq
+    https://www.songkick.com/concerts/34111159-raphael-saadiq-at-club-bahnhof-ehrenfeld
+    2018 Oct 22
+
 Left Boy
     https://www.songkick.com/concerts/33871579-left-boy-at-gloria-theater
     2018 Oct 22
@@ -2414,16 +2434,20 @@ Popa Chubby
     https://www.songkick.com/concerts/33640659-popa-chubby-at-scala-club
     2018 Oct 23
 
+Doug MacLeod
+    https://www.songkick.com/concerts/34115184-doug-macleod-at-urania-theater
+    2018 Oct 23
+
 Leon Bridges  Amber Mark
     https://www.songkick.com/concerts/33578534-leon-bridges-at-live-music-hall
     2018 Oct 24
 
-Ilse DeLange
-    https://www.songkick.com/concerts/33974004-ilse-delange-at-luxor
-    2018 Oct 24
-
 King King  Exile
     https://www.songkick.com/concerts/33326749-king-king-at-scala-club
+    2018 Oct 24
+
+Ilse DeLange
+    https://www.songkick.com/concerts/33974004-ilse-delange-at-luxor
     2018 Oct 24
 
 Nana Mouskouri
@@ -2442,7 +2466,7 @@ Mason Rack Band
     https://www.songkick.com/concerts/33665049-mason-rack-band-at-yard-club-die-kantine
     2018 Oct 25
 
-Fat Freddy's Drop
+Fat Freddy's Drop  Ladi6
     https://www.songkick.com/concerts/31903849-fat-freddys-drop-at-palladium
     2018 Oct 26
 
@@ -2826,6 +2850,10 @@ Nils WÃ¼lker
     https://www.songkick.com/concerts/33462964-nils-wulker-at-scala-club
     2018 Nov 10
 
+Unzucht
+    https://www.songkick.com/concerts/34094414-unzucht-at-jungle
+    2018 Nov 10
+
 mikebo
     https://www.songkick.com/concerts/31582949-mikebo-at-alte-topferei
     2018 Nov 10
@@ -2846,8 +2874,16 @@ Jumpin'up
     https://www.songkick.com/concerts/33916824-jumpinup-at-haus-burgpark
     2018 Nov 10
 
+Laura Gibson and Dan Mangan
+    https://www.songkick.com/concerts/34101734-laura-gibson-at-gebaude-9
+    2018 Nov 11
+
 Avery*Sunshine
     https://www.songkick.com/concerts/33579519-averysunshine-at-scala-club
+    2018 Nov 11
+
+Black Stone Cherry
+    https://www.songkick.com/concerts/34134879-black-stone-cherry-at-ewerk
     2018 Nov 11
 
 Godsmack
@@ -2858,12 +2894,12 @@ John Grant
     https://www.songkick.com/concerts/33705979-john-grant-at-kulturkirche
     2018 Nov 12
 
-Kikagaku Moyo
-    https://www.songkick.com/concerts/33953494-kikagaku-moyo-at-gebaude-9
-    2018 Nov 12
-
 Welshly Arms
     https://www.songkick.com/concerts/34050294-welshly-arms-at-gloria-theater
+    2018 Nov 12
+
+Kikagaku Moyo
+    https://www.songkick.com/concerts/33953494-kikagaku-moyo-at-gebaude-9
     2018 Nov 12
 
 Jazz Heroes  Mike Stern Band and NuHussel Orchestra
@@ -2942,6 +2978,10 @@ Stoppok
     https://www.songkick.com/concerts/33034009-stoppok-at-gloria-theater
     2018 Nov 15
 
+Rotor
+    https://www.songkick.com/concerts/34125814-rotor-at-blue-shell
+    2018 Nov 15
+
 The Human League
     https://www.songkick.com/concerts/31953159-human-league-at-ewerk
     2018 Nov 16
@@ -2956,6 +2996,10 @@ Kim Churchill
 
 Glasperlenspiel
     https://www.songkick.com/concerts/33691724-glasperlenspiel-at-palladium
+    2018 Nov 16
+
+Nothington
+    https://www.songkick.com/concerts/34094519-nothington-at-mtc
     2018 Nov 16
 
 The Watch and The Watch Plays Genesis
@@ -2996,6 +3040,10 @@ Damo Suzuki
 
 Die BAND
     https://www.songkick.com/concerts/32778939-die-band-at-scala-club
+    2018 Nov 17
+
+Madsen
+    https://www.songkick.com/concerts/34140299-madsen-at-live-music-hall
     2018 Nov 17
 
 Parquet Courts
@@ -3070,6 +3118,10 @@ BlÃ¤ck FÃ¶Ã¶ss
     https://www.songkick.com/concerts/33197919-black-fooss-at-volkstheater-millowitsch
     2018 Nov 21
 
+As It Is
+    https://www.songkick.com/concerts/34111129-as-it-is-at-luxor
+    2018 Nov 22
+
 Martin Kohlstedt
     https://www.songkick.com/concerts/33537294-martin-kohlstedt-at-kulturkirche
     2018 Nov 22
@@ -3092,6 +3144,10 @@ BlÃ¤ck FÃ¶Ã¶ss
 
 She Past Away  Burn
     https://www.songkick.com/concerts/32682434-she-past-away-at-gebaude-9
+    2018 Nov 23
+
+Lewis Capaldi
+    https://www.songkick.com/concerts/34116369-lewis-capaldi-at-burgerhaus-stollwerck
     2018 Nov 23
 
 Roland Kaiser
@@ -3282,6 +3338,10 @@ Kuhl un de GÃ¤ng
     https://www.songkick.com/concerts/33197929-kuhl-un-de-gang-at-volkstheater-millowitsch
     2018 Dec 06
 
+Berlin Syndrome
+    https://www.songkick.com/concerts/34093739-berlin-syndrome-at-blue-shell
+    2018 Dec 06
+
 Keimzeit
     https://www.songkick.com/concerts/33536754-keimzeit-at-yard-club-die-kantine
     2018 Dec 07
@@ -3366,16 +3426,16 @@ Jorge Blanco
     https://www.songkick.com/concerts/31603089-jorge-blanco-at-palladium
     2018 Dec 13
 
+Andreas KÃ¼mmert
+    https://www.songkick.com/concerts/33996449-andreas-kummert-at-club-bahnhof-ehrenfeld
+    2018 Dec 13
+
 Cat Ballou
     https://www.songkick.com/concerts/33384239-cat-ballou-at-burgerhaus-bergischer-lowe
     2018 Dec 13
 
 Lyambiko
     https://www.songkick.com/concerts/33888279-lyambiko-at-scala-club
-    2018 Dec 13
-
-Andreas KÃ¼mmert
-    https://www.songkick.com/concerts/33996449-andreas-kummert-at-club-bahnhof-ehrenfeld
     2018 Dec 13
 
 August Burns Red  Wage War
@@ -3400,6 +3460,10 @@ Thomas Borchert
 
 Konstantin Wecker
     https://www.songkick.com/concerts/33910654-konstantin-wecker-at-theater-saal-forum-leverkusen
+    2018 Dec 14
+
+DAMNiAM  Primetime Failure
+    https://www.songkick.com/concerts/34115189-damniam-at-sonic-ballroom
     2018 Dec 14
 
 New Model Army
@@ -3438,9 +3502,17 @@ The Queen Kings
     https://www.songkick.com/concerts/33771794-queen-kings-at-die-kantine
     2018 Dec 16
 
+ErdmÃ¶bel
+    https://www.songkick.com/concerts/34094539-erdmobel-at-kulturkirche
+    2018 Dec 17
+
 Cat Ballou
     https://www.songkick.com/concerts/33492234-cat-ballou-at-theater-am-dom
     2018 Dec 17
+
+ErdmÃ¶bel
+    https://www.songkick.com/concerts/34094544-erdmobel-at-kulturkirche
+    2018 Dec 18
 
 Cat Ballou
     https://www.songkick.com/concerts/33492244-cat-ballou-at-theater-am-dom
@@ -3482,8 +3554,16 @@ Pit Hupperten  David Bowie Special
     https://www.songkick.com/concerts/32975639-pit-hupperten-at-scala-club
     2018 Dec 21
 
+Schmeisig
+    https://www.songkick.com/concerts/34094409-schmeisig-at-mtc
+    2018 Dec 22
+
 HÃ¶hner
     https://www.songkick.com/concerts/33817049-hohner-at-maritim-hotel-koln-grosser-saal
+    2018 Dec 22
+
+Pe Werner
+    https://www.songkick.com/concerts/34108569-pe-werner-at-comedia-theater
     2018 Dec 22
 
 Fug und Janina, Janina und die Kinderlieder, and Janina (DE)
@@ -3518,6 +3598,10 @@ All For One and Peter Howarth  Pete Lincoln and Mick Wilson
     https://www.songkick.com/concerts/33935319-all-for-one-at-gloria-theater
     2019 Jan 15
 
+Dota Kehr
+    https://www.songkick.com/concerts/34114829-dota-kehr-at-gloria
+    2019 Jan 16
+
 Heinz Rudolf Kunze
     https://www.songkick.com/concerts/33968544-heinz-rudolf-kunze-at-palladium
     2019 Jan 17
@@ -3550,6 +3634,10 @@ Queenz of Piano
     https://www.songkick.com/concerts/31601939-queenz-of-piano-at-kulturkirche
     2019 Jan 24
 
+A Bowie Celebration
+    https://www.songkick.com/concerts/34140554-a-bowie-celebration-at-die-kantine
+    2019 Jan 24
+
 Jacques Stotzem
     https://www.songkick.com/concerts/32929974-jacques-stotzem-at-johanneskirche-koln
     2019 Jan 25
@@ -3569,6 +3657,10 @@ Kings of Floyd
 Mother's Finest
     https://www.songkick.com/concerts/33652904-mothers-finest-at-scala-club
     2019 Jan 30
+
+Good Charlotte
+    https://www.songkick.com/concerts/34126529-good-charlotte-at-palladium
+    2019 Feb 05
 
 Reinhold Beckmann and Beckmann & Band
     https://www.songkick.com/concerts/32292269-reinhold-beckmann-at-scala-club
@@ -3637,6 +3729,10 @@ Barbara SchÃ¶neberger
 Lydie Auvray
     https://www.songkick.com/concerts/33934484-lydie-auvray-at-scala-club
     2019 Mar 22
+
+Anouar Brahem
+    https://www.songkick.com/concerts/34111114-anouar-brahem-at-kolner-philharmonie
+    2019 Mar 23
 
 Jazz
     https://www.songkick.com/concerts/33935324-jazz-at-schloss-morsbroich-spiegelsaal
@@ -3729,6 +3825,10 @@ Schiller
 Klaus "Major" Heuser Band
     https://www.songkick.com/concerts/33664989-klaus-major-heuser-band-at-burgerhaus-bergischer-lowe
     2019 May 24
+
+Max Raabe & Palast Orchester
+    https://www.songkick.com/concerts/34126319-max-raabe-and-palast-orchester-at-kolner-philharmonie
+    2019 May 29
 
 Bodo Wartke
     https://www.songkick.com/concerts/33357464-bodo-wartke-at-altenberger-hof-burgerzentrum-nippes
