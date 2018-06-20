@@ -1,111 +1,3 @@
-Tiktaalik
-    https://www.songkick.com/concerts/33106229-tiktaalik-at-brause
-    2018 Jun 07
-
-David Friedrich
-    https://www.songkick.com/concerts/31930754-david-friedrich-at-zentrum-fur-aktion-kultur-und-kommunikation
-    2018 Jun 07
-
-Dirt Box Disco
-    https://www.songkick.com/concerts/33855144-dirt-box-disco-at-pitcher
-    2018 Jun 07
-
-Max Richter
-    https://www.songkick.com/concerts/30057959-max-richter-at-tonhalle-dusseldorf
-    2018 Jun 08
-
-Therapy?
-    https://www.songkick.com/concerts/32275424-therapy-at-haus-der-jugend-dusseldorf
-    2018 Jun 08
-
-Blaze Bayley
-    https://www.songkick.com/concerts/32463559-blaze-bayley-at-pitcher
-    2018 Jun 08
-
-Lakmann One
-    https://www.songkick.com/concerts/33239579-lakmann-one-at-weltkunstzimmer
-    2018 Jun 08
-
-Kafvka and Megazwei
-    https://www.songkick.com/concerts/33091304-kafvka-at-tube
-    2018 Jun 08
-
-Thomas Truax
-    https://www.songkick.com/concerts/33990424-thomas-truax-at-atelier-walter-padao
-    2018 Jun 09
-
-Joel Havea
-    https://www.songkick.com/concerts/34142959-joel-havea-at-kulturkirche-kaiserswerth
-    2018 Jun 09
-
-FCK AFD Festival 2018  Amewu, Kobito, and Waving The Guns
-    https://www.songkick.com/festivals/2360254-fck-afd/id/33696229-fck-afd-festival-2018
-    2018 Jun 09
-
-DÃ¿se
-    https://www.songkick.com/concerts/32988919-dyse-at-tube
-    2018 Jun 10
-
-Anti-Nowhere League
-    https://www.songkick.com/concerts/33625159-antinowhere-league-at-tube
-    2018 Jun 13
-
-Anne-Marie Sanderson
-    https://www.songkick.com/concerts/32053729-annemarie-sanderson-at-brause-vereinsheim-des-metzgereischnitzel-ev
-    2018 Jun 13
-
-Sommerkult Festival 2018  Val Sinestra
-    https://www.songkick.com/festivals/1867069-sommerkult/id/33768739-sommerkult-festival-2018
-    2018 Jun 14
-
-Stray from the Path
-    https://www.songkick.com/concerts/33803794-stray-from-the-path-at-tube
-    2018 Jun 15
-
-Alice Sara Ott
-    https://www.songkick.com/concerts/32708574-alice-sara-ott-at-tonhalle-dusseldorf
-    2018 Jun 15
-
-Sommerkult Festival 2018  The TiPS (GER)
-    https://www.songkick.com/festivals/1867069-sommerkult/id/33750169-sommerkult-festival-2018
-    2018 Jun 15
-
-The King's Singers
-    https://www.songkick.com/concerts/30056584-kings-singers-at-tonhalle-dusseldorf
-    2018 Jun 16
-
-Cr7z, Dj Eule, and Snowgoons  Sam Sillah and Inferno.79
-    https://www.songkick.com/concerts/33359004-cr7z-at-spektakulum
-    2018 Jun 16
-
-Halftimelover, Jonathan Harder, Enkelson, and Steckenpferd
-    https://www.songkick.com/concerts/33918049-halftimelover-at-stadtmuseum-dusseldorf
-    2018 Jun 16
-
-Alice Sara Ott
-    https://www.songkick.com/concerts/32708584-alice-sara-ott-at-tonhalle-dusseldorf
-    2018 Jun 17
-
-Black Rebel Motorcycle Club
-    https://www.songkick.com/concerts/32862494-black-rebel-motorcycle-club-at-zakk-halle
-    2018 Jun 18
-
-Alice Sara Ott
-    https://www.songkick.com/concerts/32708594-alice-sara-ott-at-tonhalle-dusseldorf
-    2018 Jun 18
-
-Fremmand
-    https://www.songkick.com/concerts/33921729-fremmand-at-zentrum-fur-aktion-kultur-und-kommunikation
-    2018 Jun 18
-
-Madball
-    https://www.songkick.com/concerts/33298814-madball-at-stone-im-ratinger-hof
-    2018 Jun 19
-
-Natalia Doco
-    https://www.songkick.com/concerts/33163889-natalia-doco-at-zakk-halle
-    2018 Jun 20
-
 Willer
     https://www.songkick.com/concerts/33221004-willer-at-haus-massenberg
     2018 Jun 21
@@ -178,6 +70,10 @@ Gloryful
     https://www.songkick.com/concerts/32745684-gloryful-at-pitcher
     2018 Jun 30
 
+Sound Of Summer Festival 2018  Woodship
+    https://www.songkick.com/festivals/342308-sound-of-summer/id/34373589-sound-of-summer-festival-2018
+    2018 Jun 30
+
 Bruno Mars
     https://www.songkick.com/concerts/32034999-bruno-mars-at-esprit-arena
     2018 Jul 02
@@ -202,6 +98,14 @@ FRIZZO
     https://www.songkick.com/concerts/32577954-frizzo-at-nachtresidenz
     2018 Jul 07
 
+Crazy Town
+    https://www.songkick.com/concerts/34224869-crazy-town-at-stone-im-ratinger-hof
+    2018 Jul 09
+
+Mindcollision
+    https://www.songkick.com/concerts/34266204-mindcollision-at-stone-im-ratinger-hof
+    2018 Jul 09
+
 Ducking Punches
     https://www.songkick.com/concerts/33934394-ducking-punches-at-tube
     2018 Jul 11
@@ -218,6 +122,10 @@ Wantu & The srie 4's
     https://www.songkick.com/concerts/32726414-wantu-and-the-srie-4s-at-route-66
     2018 Jul 14
 
+Woodship
+    https://www.songkick.com/concerts/34373594-woodship-at-district-6
+    2018 Jul 14
+
 Open Source Festival 2018  Tocotronic and Die Wilde Jagd
     https://www.songkick.com/festivals/89871-open-source/id/32138844-open-source-festival-2018
     2018 Jul 14
@@ -225,6 +133,14 @@ Open Source Festival 2018  Tocotronic and Die Wilde Jagd
 Orange Swan @ Open Source Festival 2018
     https://www.songkick.com/festivals/2367604-orange-swan-open-source/id/33742324-orange-swan--open-source-festival-2018
     2018 Jul 14
+
+die Ehrlichen Arbeiter
+    https://www.songkick.com/concerts/34249219-die-ehrlichen-arbeiter-at-mosaik
+    2018 Jul 15
+
+die Ehrlichen Arbeiter
+    https://www.songkick.com/concerts/34249249-die-ehrlichen-arbeiter-at-jesus-haus
+    2018 Jul 15
 
 Adolescents
     https://www.songkick.com/concerts/33623379-adolescents-at-stone-im-ratinger-hof
@@ -270,6 +186,14 @@ Kora (CA)
     https://www.songkick.com/concerts/33551349-kora-ca-at-unknown-venue
     2018 Jul 28
 
+KOMMANDO ZURUECK and Tronimal
+    https://www.songkick.com/concerts/34307224-kommando-zurueck-at-unknown-venue
+    2018 Jul 28
+
+Omar Duro
+    https://www.songkick.com/concerts/34330424-omar-duro-at-schlosser-quartier-boheme
+    2018 Jul 28
+
 The Martinez Brothers
     https://www.songkick.com/concerts/33760109-martinez-brothers-at-kiesgrube
     2018 Jul 29
@@ -278,7 +202,7 @@ Agnostic Front
     https://www.songkick.com/concerts/34125709-agnostic-front-at-stone-im-ratinger-hof
     2018 Jul 30
 
-Doyle Wolfgang Von Frankenstein
+Doyle Wolfgang Von Frankenstein and Doyle  Off the Cross
     https://www.songkick.com/concerts/33872899-doyle-wolfgang-von-frankenstein-at-stone-im-ratinger-hof
     2018 Jul 31
 
@@ -310,6 +234,14 @@ Die Netten Jungs Von Nebenan
     https://www.songkick.com/concerts/34118594-die-netten-jungs-von-nebenan-at-sipgate
     2018 Aug 10
 
+Haynrich
+    https://www.songkick.com/concerts/34210809-haynrich-at-pitcher
+    2018 Aug 10
+
+Kopfecho
+    https://www.songkick.com/concerts/34297284-kopfecho-at-tube
+    2018 Aug 10
+
 Mest
     https://www.songkick.com/concerts/33552579-mest-at-stone-im-ratinger-hof
     2018 Aug 11
@@ -321,6 +253,10 @@ The Denim Demons
 Protomartyr
     https://www.songkick.com/concerts/33744494-protomartyr-at-zakk-club
     2018 Aug 13
+
+We Used to Be Tourists
+    https://www.songkick.com/concerts/34232714-we-used-to-be-tourists-at-biergarten-vierlinden
+    2018 Aug 14
 
 Curse
     https://www.songkick.com/concerts/33146239-curse-at-vierlinden-openair
@@ -406,9 +342,25 @@ Kiss Forever Band
     https://www.songkick.com/concerts/31546474-kiss-forever-band-at-pitcher
     2018 Sep 01
 
+Blut Hirn Schranke
+    https://www.songkick.com/concerts/34268489-blut-hirn-schranke-at-ak-47
+    2018 Sep 01
+
+EdelweiÃ Piraten Open Air 2018  Audio88, YASSIN, and Audio88 & Yassin
+    https://www.songkick.com/festivals/2462329-edelweiss-piraten-open-air/id/34299734-edelwei-piraten-open-air-2018
+    2018 Sep 01
+
+Fux Festival 2018  Friday And The Fool and Fleischwolf
+    https://www.songkick.com/festivals/2471909-fux/id/34356994-fux-festival-2018
+    2018 Sep 01
+
 Thomas Zwijsen
     https://www.songkick.com/concerts/32948754-thomas-zwijsen-at-pitcher
     2018 Sep 02
+
+Hello Emerson
+    https://www.songkick.com/concerts/34244214-hello-emerson-at-zakk-halle
+    2018 Sep 06
 
 Kapelle Petra
     https://www.songkick.com/concerts/33184094-kapelle-petra-at-biergarten-vierlinden
@@ -417,6 +369,10 @@ Kapelle Petra
 milou & flint
     https://www.songkick.com/concerts/33976484-milou-and-flint-at-freizeitstatte-garath
     2018 Sep 07
+
+Fucking Virgins  Giver (DE)
+    https://www.songkick.com/concerts/33876944-fucking-virgins-at-ak-47
+    2018 Sep 08
 
 De-Phazz
     https://www.songkick.com/concerts/32793994-dephazz-at-club-im-capitoltheater
@@ -534,6 +490,10 @@ WDR Funkhausorchester
     https://www.songkick.com/concerts/33003894-wdr-funkhausorchester-at-capitol-theater
     2018 Sep 26
 
+Puddle of Mudd
+    https://www.songkick.com/concerts/34323644-puddle-of-mudd-at-haus-der-jugend-dusseldorf
+    2018 Sep 27
+
 Sewer Rats
     https://www.songkick.com/concerts/34109769-sewer-rats-at-pitcher
     2018 Sep 27
@@ -642,6 +602,10 @@ Awakenings & Time Warp present Connect 2018  Richie Hawtin
     https://www.songkick.com/festivals/2385059-awakenings-time-warp-present-connect/id/33840254-awakenings--time-warp-present-connect-2018
     2018 Oct 13
 
+Awakenings & Time Warp present Connect 2018  Jamie Jones
+    https://www.songkick.com/festivals/2385059-awakenings-time-warp-present-connect/id/34259404-awakenings--time-warp-present-connect-2018
+    2018 Oct 13
+
 Deutsche Oper am Rhein
     https://www.songkick.com/concerts/29866164-deutsche-oper-am-rhein-at-opernhaus
     2018 Oct 14
@@ -686,6 +650,10 @@ The Meridian Brothers
     https://www.songkick.com/concerts/33873119-meridian-brothers-at-zentrum-fur-aktion-kultur-und-kommunikation
     2018 Oct 22
 
+The Garden
+    https://www.songkick.com/concerts/34349584-garden-at-zakk-halle
+    2018 Oct 24
+
 K.Flay
     https://www.songkick.com/concerts/33639889-kflay-at-zakk-halle
     2018 Oct 25
@@ -722,6 +690,10 @@ Blond
     https://www.songkick.com/concerts/34126469-blond-at-fft-kammerspiele
     2018 Oct 26
 
+Dirty Deeds '79
+    https://www.songkick.com/concerts/34310624-dirty-deeds-79-at-spektakulum
+    2018 Oct 26
+
 Ibeyi
     https://www.songkick.com/concerts/34166764-ibeyi-at-new-fall-festival
     2018 Oct 27
@@ -738,12 +710,20 @@ Orchestre des Champs-ÃlysÃ©es
     https://www.songkick.com/concerts/33640799-orchestre-des-champselysees-at-tonhalle-dusseldorf
     2018 Oct 28
 
+Circles, i built the sky, and Caligula's Horse
+    https://www.songkick.com/concerts/34281999-circles-at-tube
+    2018 Oct 30
+
 Basta
     https://www.songkick.com/concerts/32537189-basta-at-savoy-theater
     2018 Nov 02
 
 Thomas Bracht and Nils Wogram
     https://www.songkick.com/concerts/33597784-thomas-bracht-at-jazzschmiede
+    2018 Nov 02
+
+Mathew James White
+    https://www.songkick.com/concerts/34274589-mathew-james-white-at-don-melone
     2018 Nov 02
 
 IDLES
@@ -798,8 +778,8 @@ DAMNiAM
     https://www.songkick.com/concerts/33631649-damniam-at-tube-club
     2018 Nov 10
 
-Midge Ure
-    https://www.songkick.com/concerts/33034289-midge-ure-at-savoy-theater
+Midge Ure's Band Electronica
+    https://www.songkick.com/concerts/33034289-midge-ures-band-electronica-at-savoy-theater
     2018 Nov 12
 
 Bukahara
@@ -854,12 +834,20 @@ Frank Turner
     https://www.songkick.com/concerts/32654524-frank-turner-at-mitsubishi-electric-halle
     2018 Nov 23
 
+Kolari
+    https://www.songkick.com/concerts/34365824-kolari-at-tube
+    2018 Nov 23
+
 TV Smith
     https://www.songkick.com/concerts/33985024-tv-smith-at-pitcher
     2018 Nov 24
 
 Tim Fischer
     https://www.songkick.com/concerts/33018934-tim-fischer-at-savoy-theater
+    2018 Nov 24
+
+4 Promille
+    https://www.songkick.com/concerts/34226469-4-promille-at-zakk-halle
     2018 Nov 24
 
 Kammerorchester Basel
@@ -872,6 +860,10 @@ Vienna Symphony Orchestra
 
 Nervling
     https://www.songkick.com/concerts/34110429-nervling-at-pitcher
+    2018 Nov 29
+
+Alvarez Kings
+    https://www.songkick.com/concerts/34277829-alvarez-kings-at-tube
     2018 Nov 29
 
 Extrabreit
@@ -931,11 +923,11 @@ Tom Gaebel
     2018 Dec 08
 
 Nils Landgren
-    https://www.songkick.com/concerts/33624104-nils-landgren-at-ev-johanneskirche-stadtkirche
+    https://www.songkick.com/concerts/33624109-nils-landgren-at-ev-johanneskirche-stadtkirche
     2018 Dec 09
 
 Nils Landgren
-    https://www.songkick.com/concerts/33624109-nils-landgren-at-ev-johanneskirche-stadtkirche
+    https://www.songkick.com/concerts/33624104-nils-landgren-at-ev-johanneskirche-stadtkirche
     2018 Dec 09
 
 Tine Thing Helseth
@@ -961,6 +953,10 @@ Phela
 Joscho Stephan
     https://www.songkick.com/concerts/33760404-joscho-stephan-at-forum-wasserturm
     2018 Dec 14
+
+Kreator and Dimmu Borgir  Hatebreed and Bloodbath
+    https://www.songkick.com/concerts/34229934-kreator-at-mitsubishi-electric-halle
+    2018 Dec 15
 
 Ski
     https://www.songkick.com/concerts/33855134-ski-at-pitcher
@@ -998,12 +994,12 @@ Peter and the Test Tube Babies
     https://www.songkick.com/concerts/33369884-peter-and-the-test-tube-babies-at-haus-der-jugend-dusseldorf
     2018 Dec 22
 
-Massendefekt  Tim Vantol
-    https://www.songkick.com/concerts/31417729-massendefekt-at-mitsubishi-electric-halle
-    2018 Dec 22
-
 Smoke Blow
     https://www.songkick.com/concerts/31883774-smoke-blow-at-zakk-halle
+    2018 Dec 22
+
+Massendefekt  Tim Vantol
+    https://www.songkick.com/concerts/31417729-massendefekt-at-mitsubishi-electric-halle
     2018 Dec 22
 
 VÃ¶lkerball
@@ -1030,17 +1026,37 @@ FRIZZO
     https://www.songkick.com/concerts/32867039-frizzo-at-rudas-studios
     2018 Dec 29
 
+V8 Wankers
+    https://www.songkick.com/concerts/34366504-v8-wankers-at-pitcher
+    2018 Dec 29
+
 Die Nacht Der 5 TenÃ¶re
     https://www.songkick.com/concerts/32931984-die-nacht-der-5-tenore-at-tonhalle-dusseldorf
     2019 Jan 04
+
+K&K Philharmoniker
+    https://www.songkick.com/concerts/34266374-k-and-k-philharmoniker-at-tonhalle-dusseldorf
+    2019 Jan 05
 
 The Cavern Beatles
     https://www.songkick.com/concerts/33983929-cavern-beatles-at-savoy-theater
     2019 Jan 11
 
+Basta
+    https://www.songkick.com/concerts/34369919-basta-at-forum-wasserturm
+    2019 Jan 11
+
+Basta
+    https://www.songkick.com/concerts/34369949-basta-at-forum-wasserturm
+    2019 Jan 12
+
 Fug und Janina, Janina und die Kinderlieder, and Janina (DE)
     https://www.songkick.com/concerts/32679359-fug-und-janina-at-theateratelier-takelgarn-and-co
     2019 Jan 13
+
+Wizo
+    https://www.songkick.com/concerts/34296329-wizo-at-zakk-halle
+    2019 Jan 15
 
 Stones
     https://www.songkick.com/concerts/33996699-stones-at-savoy-theater
@@ -1049,6 +1065,10 @@ Stones
 Chris Barber
     https://www.songkick.com/concerts/33664424-chris-barber-at-tonhalle-dusseldorf
     2019 Jan 23
+
+Takt32
+    https://www.songkick.com/concerts/34278744-takt32-at-tube
+    2019 Jan 24
 
 Helmut Lotti
     https://www.songkick.com/concerts/33002604-helmut-lotti-at-capitol-theater
@@ -1106,25 +1126,49 @@ Chilly Gonzales
     https://www.songkick.com/concerts/34063919-chilly-gonzales-at-tonhalle-dusseldorf
     2019 Mar 21
 
-Stewart Copeland
-    https://www.songkick.com/concerts/33654039-stewart-copeland-at-stahlwerk
-    2019 Mar 23
-
 Khatia Buniatishvili
     https://www.songkick.com/concerts/33640784-khatia-buniatishvili-at-tonhalle-dusseldorf
+    2019 Mar 23
+
+Stewart Copeland
+    https://www.songkick.com/concerts/33654039-stewart-copeland-at-stahlwerk
     2019 Mar 23
 
 Mariza
     https://www.songkick.com/concerts/33639289-mariza-at-tonhalle-dusseldorf
     2019 Mar 28
 
+The Sound of Classic Motown
+    https://www.songkick.com/concerts/34261504-sound-of-classic-motown-at-capitol-theater
+    2019 Mar 28
+
+The Sound of Classic Motown
+    https://www.songkick.com/concerts/34261514-sound-of-classic-motown-at-capitol-theater
+    2019 Mar 29
+
+The Sound of Classic Motown
+    https://www.songkick.com/concerts/34261509-sound-of-classic-motown-at-capitol-theater
+    2019 Mar 30
+
 Deutsche Oper am Rhein
     https://www.songkick.com/concerts/33625194-deutsche-oper-am-rhein-at-opernhaus
     2019 Mar 31
 
+A Pale Horse Named Death
+    https://www.songkick.com/concerts/34309814-a-pale-horse-named-death-at-tube
+    2019 Apr 05
+
+Basta
+    https://www.songkick.com/concerts/34370789-basta-at-savoy-theater
+    2019 Apr 06
+
 Schmidbauer & KÃ¤lberer
     https://www.songkick.com/concerts/34064494-schmidbauer-and-kalberer-at-savoy-theater
     2019 Apr 10
+
+K&K Philharmoniker
+    https://www.songkick.com/concerts/34299469-k-and-k-philharmoniker-at-tonhalle-dusseldorf
+    2019 Apr 11
 
 Mary Roos
     https://www.songkick.com/concerts/33639264-mary-roos-at-mitsubishi-electric-halle
