@@ -1,35 +1,3 @@
-Willer
-    https://www.songkick.com/concerts/33221004-willer-at-haus-massenberg
-    2018 Jun 21
-
-Nathan Ball
-    https://www.songkick.com/concerts/33712119-nathan-ball-at-pong-nrwforum
-    2018 Jun 22
-
-Rakede
-    https://www.songkick.com/concerts/32617299-rakede-at-biergarten-vierlinden
-    2018 Jun 22
-
-The Bar Stool Preachers
-    https://www.songkick.com/concerts/33747754-bar-stool-preachers-at-tube
-    2018 Jun 22
-
-Being As An Ocean  Holding Absence
-    https://www.songkick.com/concerts/33684324-being-as-an-ocean-at-stone-im-ratinger-hof
-    2018 Jun 23
-
-postford (hb)
-    https://www.songkick.com/concerts/31735769-postford-hb-at-ak-47
-    2018 Jun 23
-
-FRIZZO
-    https://www.songkick.com/concerts/32577949-frizzo-at-nachtresidenz
-    2018 Jun 23
-
-Schockromantik
-    https://www.songkick.com/concerts/33411294-schockromantik-at-district-6
-    2018 Jun 23
-
 Krawehl
     https://www.songkick.com/concerts/33201539-krawehl-at-tube
     2018 Jun 24
@@ -88,6 +56,10 @@ Helene Fischer
 
 4. Craft Beer Festival DÃ¼sseldorf 2018  Friday And The Fool
     https://www.songkick.com/festivals/2370639-4-craft-beer-dusseldorf/id/33759214-4-craft-beer-festival-dsseldorf-2018
+    2018 Jul 06
+
+Craft Beer Festival Dusseldorf 2018  Diana Bailey
+    https://www.songkick.com/festivals/2476674-craft-beer-dusseldorf/id/34387154-craft-beer-festival-dusseldorf-2018
     2018 Jul 06
 
 CALL OF CHARON and Insidious
@@ -166,8 +138,16 @@ Emperor X
     https://www.songkick.com/concerts/33825564-emperor-x-at-vier-linden
     2018 Jul 24
 
+pandelindio
+    https://www.songkick.com/concerts/34391729-pandelindio-at-kultureck-otto-zwei
+    2018 Jul 24
+
 Motorpsycho
     https://www.songkick.com/concerts/32547404-motorpsycho-at-zakk-halle
+    2018 Jul 26
+
+pandelindio
+    https://www.songkick.com/concerts/34391734-pandelindio-at-subsol
     2018 Jul 26
 
 VierLinden Open-Air 2018  BRETT (DE)
@@ -308,6 +288,10 @@ Herbert Pixner and Herbert Pixner Projekt
 
 The Ben Miller Band
     https://www.songkick.com/concerts/33640719-ben-miller-band-at-pitcher
+    2018 Aug 28
+
+The Blank Tapes
+    https://www.songkick.com/concerts/34386439-blank-tapes-at-kassette
     2018 Aug 28
 
 Simon & Jan
@@ -798,12 +782,12 @@ World Club Dome - Winter Edition 2018  The Chainsmokers, Hardwell, Marshmello, a
     https://www.songkick.com/festivals/2441124-world-club-dome-winter-edition/id/34165309-world-club-dome--winter-edition-2018
     2018 Nov 16
 
-Nitrogods
-    https://www.songkick.com/concerts/34110014-nitrogods-at-pitcher
-    2018 Nov 17
-
 Martin Herzberg
     https://www.songkick.com/concerts/31883249-martin-herzberg-at-garather-schlosskapelle
+    2018 Nov 17
+
+Nitrogods
+    https://www.songkick.com/concerts/34110014-nitrogods-at-pitcher
     2018 Nov 17
 
 Joscho Stephan
@@ -853,6 +837,10 @@ Tim Fischer
 Kammerorchester Basel
     https://www.songkick.com/concerts/33640804-kammerorchester-basel-at-tonhalle-dusseldorf
     2018 Nov 27
+
+Till BrÃ¶nner
+    https://www.songkick.com/concerts/34405474-till-bronner-at-tonhalle-dusseldorf
+    2018 Nov 28
 
 Vienna Symphony Orchestra
     https://www.songkick.com/concerts/33639374-vienna-symphony-orchestra-at-tonhalle-dusseldorf
@@ -994,12 +982,12 @@ Peter and the Test Tube Babies
     https://www.songkick.com/concerts/33369884-peter-and-the-test-tube-babies-at-haus-der-jugend-dusseldorf
     2018 Dec 22
 
-Smoke Blow
-    https://www.songkick.com/concerts/31883774-smoke-blow-at-zakk-halle
-    2018 Dec 22
-
 Massendefekt  Tim Vantol
     https://www.songkick.com/concerts/31417729-massendefekt-at-mitsubishi-electric-halle
+    2018 Dec 22
+
+Smoke Blow
+    https://www.songkick.com/concerts/31883774-smoke-blow-at-zakk-halle
     2018 Dec 22
 
 VÃ¶lkerball
@@ -1109,6 +1097,10 @@ Klaus Lage
 Martin Grubinger
     https://www.songkick.com/concerts/33640749-martin-grubinger-at-tonhalle-dusseldorf
     2019 Mar 06
+
+Orchestre symphonique de MontrÃ©al
+    https://www.songkick.com/concerts/34394589-orchestre-symphonique-de-montreal-at-tonhalle-dusseldorf
+    2019 Mar 11
 
 Fug und Janina, Janina und die Kinderlieder, and Janina (DE)
     https://www.songkick.com/concerts/32679384-fug-und-janina-at-theateratelier-takelgarn-and-co
