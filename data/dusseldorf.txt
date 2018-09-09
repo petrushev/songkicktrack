@@ -1,59 +1,3 @@
-Thomas Zwijsen
-    https://www.songkick.com/concerts/32948754-thomas-zwijsen-at-pitcher
-    2018 Sep 02
-
-DIETLIND FALK
-    https://www.songkick.com/concerts/34524829-dietlind-falk-at-unknown-venue
-    2018 Sep 04
-
-Attaque 77
-    https://www.songkick.com/concerts/34828479-attaque-77-at-tube
-    2018 Sep 04
-
-Dead Lord
-    https://www.songkick.com/concerts/34518149-dead-lord-at-pitcher
-    2018 Sep 06
-
-Hello Emerson
-    https://www.songkick.com/concerts/34244214-hello-emerson-at-zakk-kneipe
-    2018 Sep 06
-
-Kapelle Petra
-    https://www.songkick.com/concerts/33184094-kapelle-petra-at-biergarten-vierlinden
-    2018 Sep 07
-
-milou & flint
-    https://www.songkick.com/concerts/33976484-milou-and-flint-at-freizeitstatte-garath
-    2018 Sep 07
-
-Dingoes Ate My Baby
-    https://www.songkick.com/concerts/34540684-dingoes-ate-my-baby-at-brause-vereinsheim-des-metzgereischnitzel-ev
-    2018 Sep 07
-
-Diana Bailey
-    https://www.songkick.com/concerts/34781314-diana-bailey-at-fox-bar
-    2018 Sep 08
-
-Fucking Virgins  Giver (DE)
-    https://www.songkick.com/concerts/33876944-fucking-virgins-at-ak-47
-    2018 Sep 08
-
-PTK
-    https://www.songkick.com/concerts/34926624-ptk-at-linkes-zentrum-hinterhof
-    2018 Sep 08
-
-Marton Harvest and Sine Sleeper
-    https://www.songkick.com/concerts/34986619-marton-harvest-at-weltkunstzimmer
-    2018 Sep 08
-
-Bad Assumption
-    https://www.songkick.com/concerts/35152109-bad-assumption-at-alternatives-zentrum
-    2018 Sep 08
-
-Klang.RÃ¤ume.Oberstadt Festival 2018  Komparse
-    https://www.songkick.com/festivals/2572579-klangraumeoberstadt/id/35004839-klangrumeoberstadt-festival-2018
-    2018 Sep 08
-
 De-Phazz
     https://www.songkick.com/concerts/32793994-dephazz-at-club-im-capitoltheater
     2018 Sep 09
@@ -90,12 +34,12 @@ I Am Revenge  Blood for Betrayal, Out of Step, and Forgotten Chapter
     https://www.songkick.com/concerts/34873334-i-am-revenge-at-district-6
     2018 Sep 14
 
-Die drei ??? Klassiker Tour
-    https://www.songkick.com/concerts/33317484-die-drei-klassiker-tour-at-capitol-theater
-    2018 Sep 14
-
 skassapunka
     https://www.songkick.com/concerts/33538449-skassapunka-at-pitcher
+    2018 Sep 14
+
+Die drei ??? Klassiker Tour
+    https://www.songkick.com/concerts/33317484-die-drei-klassiker-tour-at-capitol-theater
     2018 Sep 14
 
 Hass
@@ -182,6 +126,10 @@ Bummelkasten
     https://www.songkick.com/concerts/34110514-bummelkasten-at-zentrum-fur-aktion-kultur-und-kommunikation
     2018 Sep 22
 
+Sophia Wahnschaffe
+    https://www.songkick.com/concerts/35182269-sophia-wahnschaffe-at-unknown-venue
+    2018 Sep 22
+
 Philip Simon
     https://www.songkick.com/concerts/34202374-philip-simon-at-savoy-theater
     2018 Sep 23
@@ -228,6 +176,10 @@ Capitol
 
 Damian Wilson
     https://www.songkick.com/concerts/34548524-damian-wilson-at-pitcher
+    2018 Sep 28
+
+Eric Schafer
+    https://www.songkick.com/concerts/35244854-eric-schafer-at-jazzschmiede
     2018 Sep 28
 
 Megaloh
@@ -347,7 +299,7 @@ Mnozil Brass
     2018 Oct 11
 
 Moscow Death Brigade
-    https://www.songkick.com/concerts/35154164-moscow-death-brigade-at-unknown-venue
+    https://www.songkick.com/concerts/35154164-moscow-death-brigade-at-linkes-zentrum
     2018 Oct 11
 
 Vdelli
@@ -445,6 +397,10 @@ Leon Mucke
 Antje Schomaker
     https://www.songkick.com/concerts/34539129-antje-schomaker-at-zakk-halle
     2018 Oct 18
+
+Stone Foundation
+    https://www.songkick.com/concerts/35219734-stone-foundation-at-modlord
+    2018 Oct 19
 
 Datenschmutz  Drei Meter Feldweg and Fluegge
     https://www.songkick.com/concerts/33500714-datenschmutz-at-tube
@@ -546,12 +502,24 @@ MÃ¤nni and Wegbier
     https://www.songkick.com/concerts/35158589-manni-at-pauls-savanne
     2018 Oct 27
 
+Drangsal
+    https://www.songkick.com/concerts/35212244-drangsal-at-sipgate
+    2018 Oct 28
+
 Orchestre des Champs-ÃlysÃ©es
     https://www.songkick.com/concerts/33640799-orchestre-des-champselysees-at-tonhalle-dusseldorf
     2018 Oct 28
 
+Unter Meinem Bett
+    https://www.songkick.com/concerts/35195814-unter-meinem-bett-at-club-im-capitoltheater
+    2018 Oct 28
+
 IDO Festival -Charpentier & HÃ¤ndel 2018
     https://www.songkick.com/festivals/2555854-ido-charpentier-handel/id/34896024-ido-festival-charpentier--hndel-2018
+    2018 Oct 28
+
+New Fall Festival 2018 - Unter meinem Bett 2018
+    https://www.songkick.com/festivals/2614489-new-fall-2018-unter-meinem-bett/id/35263109-new-fall-festival-2018--unter-meinem-bett-2018
     2018 Oct 28
 
 IDO Festival - Klang-Grooves 2018
@@ -612,10 +580,6 @@ Deine Freunde
 
 Klaus Hoffmann
     https://www.songkick.com/concerts/32083744-klaus-hoffmann-at-tonhalle-dusseldorf
-    2018 Nov 03
-
-Deine Freunde
-    https://www.songkick.com/concerts/33131104-deine-freunde-at-stahlwerk
     2018 Nov 03
 
 Wild
@@ -702,7 +666,7 @@ Paul Panzer
     https://www.songkick.com/concerts/30581909-paul-panzer-at-mitsubishi-eletric-halle
     2018 Nov 16
 
-World Club Dome - Winter Edition 2018  Black Eyed Peas, The Chainsmokers, Hardwell, Robin Schulz, Marshmello, Lost Frequencies, Sigma, and Dimitri Vegas & Like Mike
+World Club Dome - Winter Edition 2018  Black Eyed Peas, The Chainsmokers, Robin Schulz, Marshmello, Lost Frequencies, Sigma, Dimitri Vegas & Like Mike, and NERVO
     https://www.songkick.com/festivals/2441124-world-club-dome-winter-edition/id/34165309-world-club-dome--winter-edition-2018
     2018 Nov 16
 
@@ -718,12 +682,12 @@ Nitrogods
     https://www.songkick.com/concerts/34110014-nitrogods-at-pitcher
     2018 Nov 17
 
-Joscho Stephan
-    https://www.songkick.com/concerts/33775749-joscho-stephan-at-unknown-venue
-    2018 Nov 17
-
 Tom & Dexx
     https://www.songkick.com/concerts/35158689-tom-and-dexx-at-merkur-spielarena
+    2018 Nov 17
+
+Joscho Stephan
+    https://www.songkick.com/concerts/33775749-joscho-stephan-at-unknown-venue
     2018 Nov 17
 
 Bring Me The Horizon
@@ -753,6 +717,10 @@ Max Raabe & Palast Orchester
 The Pokes
     https://www.songkick.com/concerts/32948894-pokes-at-pitcher
     2018 Nov 21
+
+Abi Wade
+    https://www.songkick.com/concerts/35247594-abi-wade-at-haus-massenberg
+    2018 Nov 22
 
 Frank Turner
     https://www.songkick.com/concerts/32654524-frank-turner-at-mitsubishi-electric-halle
@@ -834,6 +802,10 @@ Extrabreit
     https://www.songkick.com/concerts/32890244-extrabreit-at-haus-der-jugend-dusseldorf
     2018 Nov 30
 
+Michael Patrick Kelly
+    https://www.songkick.com/concerts/35004144-michael-patrick-kelly-at-mitsubishi-electric-halle
+    2018 Nov 30
+
 Rogers (DE)
     https://www.songkick.com/concerts/34472819-rogers-de-at-zakk-halle
     2018 Nov 30
@@ -848,10 +820,6 @@ Maybebop
 
 North Alone  Beardless
     https://www.songkick.com/concerts/34031344-north-alone-at-tube
-    2018 Nov 30
-
-Michael Patrick Kelly
-    https://www.songkick.com/concerts/35004144-michael-patrick-kelly-at-mitsubishi-electric-halle
     2018 Nov 30
 
 Rogers (DE)  Engst
@@ -1082,6 +1050,10 @@ Basta
     https://www.songkick.com/concerts/34369919-basta-at-forum-wasserturm
     2019 Jan 11
 
+Steiner & Madlaina
+    https://www.songkick.com/concerts/35246044-steiner-and-madlaina-at-tube
+    2019 Jan 12
+
 Basta
     https://www.songkick.com/concerts/34369949-basta-at-forum-wasserturm
     2019 Jan 12
@@ -1154,6 +1126,10 @@ The 12 Tenors
     https://www.songkick.com/concerts/34624424-12-tenors-at-mitsubishi-electric-halle
     2019 Feb 07
 
+Folkshilfe
+    https://www.songkick.com/concerts/35258969-folkshilfe-at-tube
+    2019 Feb 07
+
 HÃ©lÃ¨ne Grimaud
     https://www.songkick.com/concerts/34615189-helene-grimaud-at-tonhalle-dusseldorf
     2019 Feb 08
@@ -1181,6 +1157,10 @@ Avi Avital
 Prime Circle
     https://www.songkick.com/concerts/34919139-prime-circle-at-zakk-halle
     2019 Feb 14
+
+Callejon
+    https://www.songkick.com/concerts/35258784-callejon-at-zakk-halle
+    2019 Feb 16
 
 Re-percussion
     https://www.songkick.com/concerts/33538529-repercussion-at-robert-schumann-saal
@@ -1377,4 +1357,8 @@ Herman van Veen
 Herman van Veen
     https://www.songkick.com/concerts/34992159-herman-van-veen-at-tonhalle-dusseldorf
     2019 Nov 23
+
+K&K Philharmoniker
+    https://www.songkick.com/concerts/35213569-k-and-k-philharmoniker-at-tonhalle-dusseldorf
+    2020 Jan 02
 
