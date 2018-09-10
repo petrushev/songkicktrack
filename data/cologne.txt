@@ -1,31 +1,3 @@
-Dan Owen
-    https://www.songkick.com/concerts/34019739-dan-owen-at-artheater
-    2018 Sep 09
-
-Pabst
-    https://www.songkick.com/concerts/34057179-pabst-at-blue-shell-club
-    2018 Sep 09
-
-Piano Plus
-    https://www.songkick.com/concerts/33201514-piano-plus-at-kirche-alt-st-ulrich
-    2018 Sep 09
-
-Tommy Engel
-    https://www.songkick.com/concerts/33326934-tommy-engel-at-volkstheater-millowitsch
-    2018 Sep 09
-
-Mrs. Nina Chartier
-    https://www.songkick.com/concerts/33872624-mrs-nina-chartier-at-mtc
-    2018 Sep 09
-
-Fug und Janina, Janina (DE), and Janina und die Kinderlieder
-    https://www.songkick.com/concerts/35110504-fug-und-janina-at-weinfest-pulheim
-    2018 Sep 09
-
-YouInFlue 2018  Mike Leon
-    https://www.songkick.com/festivals/2602774-youinflue/id/35189289-youinflue-2018
-    2018 Sep 09
-
 Rea Garvey
     https://www.songkick.com/concerts/32105274-rea-garvey-at-palladium
     2018 Sep 10
@@ -238,6 +210,10 @@ Ray Collins' Hot-club
     https://www.songkick.com/concerts/32763379-ray-collins-hotclub-at-gloria-theater
     2018 Sep 15
 
+The Jukebox Romantics and Sewer Rats
+    https://www.songkick.com/concerts/34837404-jukebox-romantics-at-sonic-ballroom
+    2018 Sep 15
+
 Knittler
     https://www.songkick.com/concerts/31368749-knittler-at-tanzbrunnen
     2018 Sep 15
@@ -260,10 +236,6 @@ Collegium 1704
 
 Iorie
     https://www.songkick.com/concerts/33972714-iorie-at-reinecke-fuchs
-    2018 Sep 15
-
-The Jukebox Romantics and Sewer Rats
-    https://www.songkick.com/concerts/34837404-jukebox-romantics-at-sonic-ballroom
     2018 Sep 15
 
 Christina Lux
@@ -722,7 +694,7 @@ Philipp Poisel
     https://www.songkick.com/concerts/33298744-philipp-poisel-at-ewerk
     2018 Sep 27
 
-Dean Lewis
+Dean Lewis  Eliott
     https://www.songkick.com/concerts/34814149-dean-lewis-at-artheater
     2018 Sep 27
 
@@ -950,6 +922,10 @@ Cardinal Sessions Festival 8 2018  Hollow Coves
     https://www.songkick.com/festivals/2536584-cardinal-sessions-8/id/34777789-cardinal-sessions-festival-8-2018
     2018 Oct 02
 
+CARDINAL SESSIONS FESTIVAL VIII 2018  Hollow Coves, Bukahara, Inner Tongue, Luke Noa, and Cardinal Sessions Festival
+    https://www.songkick.com/festivals/2616124-cardinal-sessions-viii/id/35271999-cardinal-sessions-festival-viii-2018
+    2018 Oct 02
+
 Tory Lanez
     https://www.songkick.com/concerts/33447254-tory-lanez-at-theater-am-tanzbrunnen
     2018 Oct 03
@@ -978,12 +954,12 @@ Blackeyed Blonde
     https://www.songkick.com/concerts/34888864-blackeyed-blonde-at-mtc
     2018 Oct 03
 
-Ensemble Musikfabrik and Benjamin Kobler
-    https://www.songkick.com/concerts/33301429-ensemble-musikfabrik-at-wdr-funkhaus
-    2018 Oct 03
-
 Lisa Lystam
     https://www.songkick.com/concerts/33872399-lisa-lystam-at-yard-club-die-kantine
+    2018 Oct 03
+
+Ensemble Musikfabrik and Benjamin Kobler
+    https://www.songkick.com/concerts/33301429-ensemble-musikfabrik-at-wdr-funkhaus
     2018 Oct 03
 
 Musikfabrik Im Wdr
@@ -1798,7 +1774,7 @@ Emma Ruth Rundle  Jaye Jayle
     https://www.songkick.com/concerts/34425939-emma-ruth-rundle-at-gebaude-9
     2018 Oct 20
 
-The Brew
+The Brew  The Hydden
     https://www.songkick.com/concerts/33653254-brew-at-die-kantine
     2018 Oct 20
 
@@ -1830,16 +1806,16 @@ Jawknee Music
     https://www.songkick.com/concerts/33353929-jawknee-music-at-die-wohngemeinschaft
     2018 Oct 20
 
+BHZ
+    https://www.songkick.com/concerts/35165864-bhz-at-veedel-club
+    2018 Oct 20
+
 Scherbenwelt
     https://www.songkick.com/concerts/33183609-scherbenwelt-at-hinterhofsalon
     2018 Oct 20
 
 Jonathan Kaspar
     https://www.songkick.com/concerts/34003479-jonathan-kaspar-at-gewolbe
-    2018 Oct 20
-
-BHZ
-    https://www.songkick.com/concerts/35165864-bhz-at-veedel-club
     2018 Oct 20
 
 The Vaccines
@@ -2430,12 +2406,12 @@ Street Dogs
     https://www.songkick.com/concerts/35212929-street-dogs-at-gebaude-9
     2018 Nov 04
 
-Axel Rudi Pell
-    https://www.songkick.com/concerts/32889204-axel-rudi-pell-at-essigfabrik
-    2018 Nov 04
-
 Nothing
     https://www.songkick.com/concerts/35262474-nothing-at-artheater
+    2018 Nov 04
+
+Axel Rudi Pell
+    https://www.songkick.com/concerts/32889204-axel-rudi-pell-at-essigfabrik
     2018 Nov 04
 
 Wirtz
@@ -3224,6 +3200,10 @@ Venice
 
 Kala Brisella
     https://www.songkick.com/concerts/34872779-kala-brisella-at-blue-shell
+    2018 Nov 19
+
+We Will Kaleid
+    https://www.songkick.com/concerts/35271709-we-will-kaleid-at-zum-scheuen-reh
     2018 Nov 19
 
 Kylie Minogue
@@ -4078,6 +4058,10 @@ Katja Aujesky
     https://www.songkick.com/concerts/35153479-katja-aujesky-at-kulturcafe-lichtung
     2018 Dec 13
 
+Wolf Alice
+    https://www.songkick.com/concerts/35273374-wolf-alice-at-gebaude-9
+    2018 Dec 13
+
 August Burns Red  Wage War and Betraying the Martyrs
     https://www.songkick.com/concerts/33492619-august-burns-red-at-essigfabrik
     2018 Dec 14
@@ -4424,6 +4408,10 @@ Die Fantastischen Vier
 
 FRONTM3N
     https://www.songkick.com/concerts/33935319-frontm3n-at-gloria-theater
+    2019 Jan 15
+
+You Me At Six
+    https://www.songkick.com/concerts/35270644-you-me-at-six-at-essigfabrik
     2019 Jan 15
 
 Wizo
@@ -4874,6 +4862,10 @@ Herbert GrÃ¶nemeyer
     https://www.songkick.com/concerts/33385149-herbert-gronemeyer-at-lanxess-arena
     2019 Mar 14
 
+Lea
+    https://www.songkick.com/concerts/35274364-lea-at-gloria-theater
+    2019 Mar 14
+
 Oomph!
     https://www.songkick.com/concerts/34152409-oomph-at-live-music-hall
     2019 Mar 15
@@ -5241,6 +5233,10 @@ Seeed
 Seeed
     https://www.songkick.com/concerts/33872939-seeed-at-lanxess-arena
     2019 Oct 22
+
+Von wegen Lisbeth
+    https://www.songkick.com/concerts/35270709-von-wegen-lisbeth-at-ewerk-and-palladium-koln
+    2019 Oct 25
 
 Lydie Auvray
     https://www.songkick.com/concerts/33934484-lydie-auvray-at-scala-club

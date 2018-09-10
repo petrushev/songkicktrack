@@ -1,7 +1,3 @@
-De-Phazz
-    https://www.songkick.com/concerts/32793994-dephazz-at-club-im-capitoltheater
-    2018 Sep 09
-
 FrÃ¸kedal
     https://www.songkick.com/concerts/34623254-frokedal-at-tube
     2018 Sep 10
@@ -118,12 +114,12 @@ Maya Berovic
     https://www.songkick.com/concerts/34855904-maya-berovic-at-ambis-club
     2018 Sep 22
 
-Morgan Finlay
-    https://www.songkick.com/concerts/32333229-morgan-finlay-at-living-room-show
-    2018 Sep 22
-
 Bummelkasten
     https://www.songkick.com/concerts/34110514-bummelkasten-at-zentrum-fur-aktion-kultur-und-kommunikation
+    2018 Sep 22
+
+Morgan Finlay
+    https://www.songkick.com/concerts/32333229-morgan-finlay-at-living-room-show
     2018 Sep 22
 
 Sophia Wahnschaffe
@@ -532,6 +528,10 @@ Circles, i built the sky, and Caligula's Horse
 
 Downpilot
     https://www.songkick.com/concerts/34970214-downpilot-at-cube
+    2018 Oct 30
+
+The Hydden
+    https://www.songkick.com/concerts/35275949-hydden-at-pitcher
     2018 Oct 30
 
 Xylouris White
