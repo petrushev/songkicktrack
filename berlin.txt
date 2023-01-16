@@ -78,12 +78,12 @@ Christos Rafalides and Giovanni Mirabassi
     https://www.songkick.com/concerts/40665951-christos-rafalides-at-zig-zag-jazz-club
     2023 Jan 19
 
-KINGS ELLIOT
-    https://www.songkick.com/concerts/40780212-kings-elliot-at-privatclub
-    2023 Jan 19
-
 Saroos, Eilis Frawley
     https://www.songkick.com/concerts/40805826-saroos-at-marieantoinette
+    2023 Jan 19
+
+KINGS ELLIOT
+    https://www.songkick.com/concerts/40780212-kings-elliot-at-privatclub
     2023 Jan 19
 
 Katie O'Connor, To Gaze Upon Us, and Steven Sharpe
@@ -134,10 +134,6 @@ Bad Stream
     https://www.songkick.com/concerts/40810228-bad-stream-at-kantine-am-berghain
     2023 Jan 20
 
-My Sister Grenadine and Marta Collica
-    https://www.songkick.com/concerts/40830237-my-sister-grenadine-at-jugendwiderstandsmuseum
-    2023 Jan 20
-
 Tinlicker
     https://www.songkick.com/concerts/40671635-tinlicker-at-astra-kulturhaus
     2023 Jan 21
@@ -168,10 +164,6 @@ Pothead
 
 Oberst & Buchner
     https://www.songkick.com/concerts/40829743-oberst-and-buchner-at-ritter-butzke
-    2023 Jan 21
-
-Falk
-    https://www.songkick.com/concerts/39962365-falk-at-die-wuhlmause-am-theo
     2023 Jan 21
 
 Kimbra, Tommy Raps
@@ -406,7 +398,7 @@ Henrik Freischlader
     https://www.songkick.com/concerts/40482171-henrik-freischlader-at-kesselhaus-in-der-kulturbrauerei
     2023 Jan 29
 
-Lucixn and imnotege, massaka, Hidra, Allame, Killa Hakan, ÅehinÅah, Contra, defkhan, Rota, Khontkar, and Volo
+Lucixn and imnotege, massaka, Hidra, Allame, Killa Hakan, ÅehinÅah, Contra, defkhan, Rota, and Volo
     https://www.songkick.com/concerts/40818924-lucixn-at-ger
     2023 Jan 29
 
@@ -464,6 +456,10 @@ Pablo Murgier
 
 UnerhÃ¶rte Musik
     https://www.songkick.com/concerts/40797712-unerhorte-musik-at-bka-theater
+    2023 Jan 31
+
+Vanina Vincent
+    https://www.songkick.com/concerts/40846086-vanina-vincent-at-al-hamra
     2023 Jan 31
 
 Extrawelt
@@ -558,8 +554,8 @@ Transmission the Sound of Joy Division
     https://www.songkick.com/concerts/40774135-transmission-the-sound-of-joy-division-at-frannz-club
     2023 Feb 03
 
-Metaraph and False Witness
-    https://www.songkick.com/concerts/40831303-metaraph-at-rsoberlin
+Hollt
+    https://www.songkick.com/concerts/40835177-hollt-at-kater-blau
     2023 Feb 03
 
 First Aid Kit
@@ -1226,12 +1222,12 @@ Zebrahead and ZSK, TYNA
     https://www.songkick.com/concerts/40456113-zebrahead-at-astra-kulturhaus
     2023 Feb 24
 
-Azad
-    https://www.songkick.com/concerts/40619650-azad-at-hole-44
-    2023 Feb 24
-
 Miss Monique
     https://www.songkick.com/concerts/40767512-miss-monique-at-ritter-buzke
+    2023 Feb 24
+
+Azad
+    https://www.songkick.com/concerts/40619650-azad-at-hole-44
     2023 Feb 24
 
 Bernd Begemann
@@ -1360,6 +1356,10 @@ Rhonda, Amber & the Moon
 
 ÐÐ°Ð²ÐµÐ» ÐÐ¾Ð»Ñ
     https://www.songkick.com/concerts/40837179-paviel-volia-at-columbiahalle
+    2023 Feb 27
+
+Pablo Cornejo
+    https://www.songkick.com/concerts/40846118-pablo-cornejo-at-minimal-bar
     2023 Feb 27
 
 Lizzo and BREE RUNWAY
@@ -1674,12 +1674,12 @@ iamamiwhoami and ionnalee
     https://www.songkick.com/concerts/40456231-iamamiwhoami-at-kesselhaus-in-der-kulturbrauerei
     2023 Mar 08
 
-K.I.Z.
-    https://www.songkick.com/concerts/40792730-kiz-at-mercedesbenz-arena
-    2023 Mar 08
-
 The Damned
     https://www.songkick.com/concerts/40833886-damned-at-hole-44
+    2023 Mar 08
+
+K.I.Z.
+    https://www.songkick.com/concerts/40792730-kiz-at-mercedesbenz-arena
     2023 Mar 08
 
 Die Sterne
@@ -1892,6 +1892,10 @@ Bloodywood
 
 Glenn Miller Orchestra directed by Wil Salden and Glenn Miller Orchestra
     https://www.songkick.com/concerts/40571140-glenn-miller-orchestra-directed-by-wil-salden-at-friedrichstadtpalast
+    2023 Mar 13
+
+Pablo Cornejo
+    https://www.songkick.com/concerts/40846122-pablo-cornejo-at-minimal-bar
     2023 Mar 13
 
 Nils Frahm
@@ -2298,12 +2302,12 @@ Get the Shot, Thrown and Ithaca
     https://www.songkick.com/concerts/40802279-get-the-shot-at-lido
     2023 Mar 24
 
-Johanna Zeul
-    https://www.songkick.com/concerts/40741706-johanna-zeul-at-wabe
-    2023 Mar 24
-
 Polkageist
     https://www.songkick.com/concerts/40827914-polkageist-at-kesselhaus-in-der-kulturbrauerei
+    2023 Mar 24
+
+Johanna Zeul
+    https://www.songkick.com/concerts/40741706-johanna-zeul-at-wabe
     2023 Mar 24
 
 Damien Rice
@@ -2838,6 +2842,10 @@ Jan Garbarek
     https://www.songkick.com/concerts/40612007-jan-garbarek-at-philharmonie-berlin
     2023 Apr 11
 
+Ivan Ave
+    https://www.songkick.com/concerts/40463591-ivan-ave-at-maschinenhaus
+    2023 Apr 11
+
 Alin Coen Band and Alin Coen
     https://www.songkick.com/concerts/40717316-alin-coen-band-at-theater-admiralspalast
     2023 Apr 11
@@ -3106,12 +3114,12 @@ Nalan
     https://www.songkick.com/concerts/40806877-nalan-at-kantine-am-berghain
     2023 Apr 18
 
-Carrington-Brown
-    https://www.songkick.com/concerts/40658110-carringtonbrown-at-meistersaal
-    2023 Apr 18
-
 Fantasy
     https://www.songkick.com/concerts/39136039-fantasy-at-tempodrom
+    2023 Apr 18
+
+Carrington-Brown
+    https://www.songkick.com/concerts/40658110-carringtonbrown-at-meistersaal
     2023 Apr 18
 
 Lil Gnar, Young Cardi
@@ -3774,12 +3782,12 @@ Diana Krall
     https://www.songkick.com/concerts/40750118-diana-krall-at-tempodrom
     2023 May 08
 
-Jonathan Roy
-    https://www.songkick.com/concerts/40839302-jonathan-roy-at-privatclub
-    2023 May 08
-
 Vulvodynia
     https://www.songkick.com/concerts/40804234-vulvodynia-at-cassiopeia
+    2023 May 08
+
+Jonathan Roy
+    https://www.songkick.com/concerts/40839302-jonathan-roy-at-privatclub
     2023 May 08
 
 Lou Asril, Toby Whyle
@@ -4475,7 +4483,7 @@ Chameleons
     2023 Jun 09
 
 Saga
-    https://www.songkick.com/concerts/40456136-saga-at-columbiahalle
+    https://www.songkick.com/concerts/40456136-saga-at-huxleys-neue-welt
     2023 Jun 09
 
 Rhymin Simon
@@ -4492,6 +4500,10 @@ Silbermond
 
 Karat
     https://www.songkick.com/concerts/40762179-karat-at-arche-neuenhagen
+    2023 Jun 10
+
+Space Motion
+    https://www.songkick.com/concerts/40846316-space-motion-at-ritter-butzke
     2023 Jun 10
 
 Lizzy McAlpine
@@ -4612,6 +4624,10 @@ Rundfunk-Sinfonieorchester Berlin
 
 Ska-P
     https://www.songkick.com/concerts/40714399-skap-at-zitadelle-spandau
+    2023 Jun 24
+
+Built to Spill
+    https://www.songkick.com/concerts/40846497-built-to-spill-at-lido
     2023 Jun 24
 
 Hilltop Hoods
@@ -5482,12 +5498,12 @@ Scala & Kolacny Brothers
     https://www.songkick.com/concerts/40797580-scala-and-kolacny-brothers-at-grosser-saal-uckermarkische-buhnen
     2023 Nov 24
 
-Dirk Michaelis
-    https://www.songkick.com/concerts/40769432-dirk-michaelis-at-babylon
-    2023 Nov 25
-
 Stahlzeit
     https://www.songkick.com/concerts/40776801-stahlzeit-at-columbiahalle
+    2023 Nov 25
+
+Dirk Michaelis
+    https://www.songkick.com/concerts/40769432-dirk-michaelis-at-babylon
     2023 Nov 25
 
 Maite Kelly
